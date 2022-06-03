@@ -19,7 +19,7 @@
 | Stav   | close, 2h     | d6    | 1    | 4    |
 | Kniv   | hand, precise | d4    | 0    | 1    |
 
-###Vern
+### Vern
 
 | Type       | Notat | Vern | Vekt | Pris |
 | ---------- | ----- | ---- | ---- | ---- |
@@ -28,7 +28,7 @@
 | Hjelm      | worn  | +1   | 2    | 25   |
 | Vams       | worn  | +1   | 1    | 30   |
 
-###Amunisjon
+### Amunisjon
 
 | Type  | Notat        | Vekt | Pris |
 | ----- | ------------ | ---- | ---- |
