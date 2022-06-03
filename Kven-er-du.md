@@ -8,8 +8,7 @@ Du kan gjera dei i den rekkefølgja du vil. Kanskje du vil finna på eit namn et
 
 - **Trill 2D6 og legg saman resultatet for å finna bakgrunnen din i tabellen under.**
 
-- **Fordel evnene dine på STR, DEX, CON, INT, WIS og CHA:  
-  +2, +1, +1, 0, 0, -1**
+- **Fordel evnene dine på STR, DEX, CON, INT, WIS og CHA: +2, +1, +1, 0, 0, -1**
 
 - **Noter ned livskrafta di (HP), den er 10 +CON.**
 
