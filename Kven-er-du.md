@@ -64,17 +64,18 @@ Under finn du lister med kva dei ulike bakgrunnane byrjar med av utstyr. Du kan 
 
 # Skald
 
-### Byrjer med:
+Du var ein skald. Du dikta for ein høvding, reiste rundt på jakt etter gamle viser eller skreiv ned kvad om gamle heltar. No er du i Brattvik, på jakt etter eventyr, kva har ført deg hit?
 
+#### Du byrjer med:
 - 3d6 sylv
 - Proviant (5 bruk)
 - Ein liten suvenir frå reisene dine
-- Eit instrument
+- Eit valfritt instrument
 - Ein sax
 
-#### Vel ein
-- Vams __eller__ Fine klede
-
-#### Vel ein:
-Ekspedisjonsutstyr (5 bruk) __eller__ Proviant (5 bruk)
+#### I tillegg kan du velja to:
+- Vams
+- Fine klede
+- Ekspedisjonsutstyr (5 bruk)
+- Proviant (5 bruk)
 
