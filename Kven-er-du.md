@@ -11,6 +11,7 @@
 
 - Noter ned bæreevne (10 +STR).
 
+
 ## Kva heiter du?
 
 Trill ein D20 for førenamn, og ein for etternamn.  
@@ -39,6 +40,7 @@ Om du er usikker på kva kjønn du er kan du trilla D6, oddetal er mann og parta
 | 1.  | Ylva     | Tor     | \-son/dotter (trill på fornamn) |
 | 1.  | Åshed    | Vendel  | \-son/dotter (trill på fornamn) |
 | 1.  | Ødgun    | Ulvar   | \-son/dotter (trill på fornamn) |
+
 
 ## Kva er bakgrunnen din?
 | 2D6 | Bakgrunn |
