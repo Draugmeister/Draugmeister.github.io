@@ -5,3 +5,4 @@
   - [Hardviddo](Hardviddo.md)
 - [Kven er du?](Kven-er-du.md)
 - [Utstyr og våpen](Utstyr-og-våpen.md)
+- [Spelteknisk og -system](Spelteknisk-og-system.md)
