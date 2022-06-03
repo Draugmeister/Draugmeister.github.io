@@ -1,5 +1,6 @@
 - [Heim](/)
-- [Verda](Setting.md)
+- Verda
   - [Tida de lev i](Setting.md)
   - [Brattvik](Brattvik.md)
   - [Hardviddo](Hardviddo.md)
+- [Utstyr og våpen][Utstyr og våpen.md)
