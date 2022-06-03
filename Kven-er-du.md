@@ -13,7 +13,7 @@ Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei 
 - **Noter ned bæreevna di (kor mykje du kan bæra), den er 10 +STR.**
 
 
-## Kva heiter du?
+#### Kva heiter du?
 
 Trill ein D20 for førenamn, og ein for etternamn.  
 
@@ -43,7 +43,7 @@ Om du er usikker på kva kjønn du er kan du trilla D6, oddetal er mann og parta
 | 1.  | Ødgun    | Ulvar   | \-son/dotter (trill på fornamn) |
 
 
-## Kva er bakgrunnen din?
+#### Kva er bakgrunnen din?
 
 Bakgrunnen din er kva du gjorde før du vart tvungen til å legga ut på eventyr.
 
