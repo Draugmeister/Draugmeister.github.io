@@ -59,6 +59,22 @@ Trill 2d6 på tabellen under for å finna kva bakgrunnen din er.
 | 11   | Handelsreisande |
 | 12   | Prest|
 
+Under finn du lister med kva dei ulike bakgrunnane byrjar med av utstyr. Du kan også ta nokre val om fortida di, men desse kan du også finna ut av medan du speler.
 
 
+# Skald
+
+### Byrjer med:
+
+- 3d6 sylv
+- Proviant (5 bruk)
+- Ein liten suvenir frå reisene dine
+- Eit instrument
+- Ein sax
+
+#### Vel ein
+- Vams __eller__ Fine klede
+
+#### Vel ein:
+Ekspedisjonsutstyr (5 bruk) __eller__ Proviant (5 bruk)
 
