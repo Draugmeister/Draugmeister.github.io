@@ -1,8 +1,6 @@
 - [Heim](/)
 - [Noreg i år 1040 e.kr.](Setting.md)
 - [Brattvik og Hardviddo](Brattvik-og-Hardviddo.md)
-  - [Brattvik](Brattvik.md)
-  - [Hardviddo](Hardviddo.md)
 - [Kven er du?](Kven-er-du.md)
 - [Utstyr og våpen](Utstyr-og-våpen.md)
 - [Spelteknisk og -system](Spelteknisk-og-system.md)
