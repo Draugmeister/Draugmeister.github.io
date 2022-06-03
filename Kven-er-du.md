@@ -1,6 +1,7 @@
 # Kven er du?
 
-Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei i den rekkefølgja du vil. Kanskje du vil laga eit namn etter du veit bakgrunnen din, til dømes.
+Gjenomfør stega under for å finna ut kven karakteren din er. 
+Du kan gjera dei i den rekkefølgja du vil. Kanskje du vil finna på eit namn etter at du veit bakgrunnen din, til dømes.
 
 - Trill fram eit namn på tabellen under, eller finn på eit sjølv.
 
