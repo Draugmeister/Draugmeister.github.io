@@ -43,6 +43,11 @@ Om du er usikker på kva kjønn du er kan du trilla D6, oddetal er mann og parta
 
 
 ## Kva er bakgrunnen din?
+
+Bakgrunnen din er kva du gjorde før du vart tvungen til å legga ut på eventyr.
+
+Trill 2d6 på tabellen under for å finna kva bakgrunnen din er.
+
 | 2D6 | Bakgrunn |
 | ---- | --------------- |
 | 2    | Skald           | 
