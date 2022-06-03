@@ -2,7 +2,8 @@
 
 Du var ein skald. Du dikta for ein høvding, reiste rundt på jakt etter gamle viser eller skreiv ned kvad om gamle heltar. No er du i Brattvik, på jakt etter eventyr, kva har ført deg hit?
 
-[![Skald](test)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ynglingesaga_9_Gerhard_Munthe.jpg/573px-Ynglingesaga_9_Gerhard_Munthe.jpg)
+![Skald](/assets/images/skald.jpg "Skald")
+
 #### Du byrjer med:
 - 3d6 sylv
 - Proviant (5 bruk)
