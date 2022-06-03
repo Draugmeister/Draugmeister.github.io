@@ -39,3 +39,18 @@ Om du er usikker på kva kjønn du er kan du trilla D6, oddetal er mann og parta
 | 1.  | Ylva     | Tor     | \-son/dotter (trill på fornamn) |
 | 1.  | Åshed    | Vendel  | \-son/dotter (trill på fornamn) |
 | 1.  | Ødgun    | Ulvar   | \-son/dotter (trill på fornamn) |
+
+## Kva er bakgrunnen din?
+| 2D6 | Bakgrunn |
+| ---- | --------------- |
+| 2    | Skald           | 
+|3 | Soldat |
+| 4-5 | Jegar |
+| 6-8  | Heimføding      |
+| 9-10 | Tjuv            |
+| 11   | Handelsreisande |
+| 12   | Prest|
+
+
+
+
