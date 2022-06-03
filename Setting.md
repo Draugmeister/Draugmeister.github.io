@@ -13,7 +13,7 @@ Vikingane trur at alle som vert drepne i kamp kjem til Valhall, medan dei som d�
 
 Samfunnet er hierarkisk. Dei gamle høvdingane og stormennene er på topp, men er avhengige av bøndene sin støtte. Bøndene er frie (for det meste) menn, som eig land. Dei er avhengige av høvdingane for vern. Trællane er ufrie, som slavar, og er nederst på rangstigen.
 
-Det er vanleg å gje kvarandre gåver_, og plikta til å gjengjelda gåva er lika stor som plikta til å ta imot. For å etablera makt kan ein gje dyre gåver til nokon som ikkje kan gjengjelda dei, då må dei gjengeldast på andre vis.
+Det er vanleg å gje kvarandre gåver, og plikta til å gjengjelda gåva er lika stor som plikta til å ta imot. For å etablera makt kan ein gje dyre gåver til nokon som ikkje kan gjengjelda dei, då må dei gjengeldast på andre vis.
 
 ### Våpen utstyr og klede  
 
