@@ -1,2 +1,4 @@
 - [Heim](/)
 - [Setting](Setting.md)
+  - [Brattvik](Brattvik.md)
+  - [Hardviddo](Hardviddo.md)
