@@ -19,9 +19,7 @@ _Det er vanleg å gje kvarandre gåver_, og plikta til å gjengjelda gåva er li
 
 _Alle hadde våpen_. Krigarane vert sett opp til, og dess finare våpen du har dess betre. _Dei vanlegaste våpena er spyd, øks, sverd og skjold_. Dei rikaste har ringbrynja og hjelm, og fint utsmykka utstyr og våpen, medan dei fattige bruker økser, knivar, stokkar og det dei har tilgjengeleg.
 
-_Dei fleste våpen og det meste av reidskaper er laga av jern_. Smykker og dekorative element kan vera laga av bronse, gull, sylv eller til og med bly.
-
-_Dei fleste klede er laga av lin eller ull_. Ytterklede, sko og belter er laga av skinn og lær, og pels vert brukt både som pynt og for å halda varmen. 
+_Dei fleste våpen og det meste av reidskaper er laga av jern_. Smykker og dekorative element kan vera laga av bronse, gull, sylv eller til og med bly. _Dei fleste klede er laga av lin eller ull_. Ytterklede, sko og belter er laga av skinn og lær, og pels vert brukt både som pynt og for å halda varmen. 
 
 ### Det lunefulle fjellet
 
