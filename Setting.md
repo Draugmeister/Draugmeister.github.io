@@ -1,4 +1,4 @@
-# Året er 1040 e.kr.
+#Noreg i år 1040 e.kr.
 
 __De lev i overgangen mellom vikingtid og mellomalder i Noreg__. Det er ti år sidan slaget på stiklestad, og Noreg er vorte eit kristen land. Høvdingane – som hadde både den verdslege og religiøse makta i vikingtida – har mista den verdslege til kongen og den religiøse til kyrkja.
 
