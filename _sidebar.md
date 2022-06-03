@@ -1,6 +1,6 @@
 - [Heim](/)
 - [År 1040 e.kr.](Setting.md)
-- Kvar er de?
+- [Brattvik og Hardviddo](Brattvik-og-Hardviddo.md)
   - [Brattvik](Brattvik.md)
   - [Hardviddo](Hardviddo.md)
 - [Kven er du?](Kven-er-du.md)
