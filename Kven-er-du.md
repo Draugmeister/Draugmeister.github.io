@@ -1,6 +1,6 @@
 # Kven er du?
 
-- Trill 2d6 og legg saman resultatet for å finna bakgrunnen din.
+- Trill 2D6 og legg saman resultatet for å finna bakgrunnen din.
 
 - Trill fram eit namn, eller finn på eit sjølv.
 
@@ -15,7 +15,7 @@
 
 Trill ein D20 for førenamn, og ein for etternamn.  
 
-Om du er usikker på kva kjønn du er kan du trilla 1D6, oddetal er mann og partaler kvinna.
+Om du er usikker på kva kjønn du er kan du trilla D6, oddetal er mann og partaler kvinna.
 
 | D20 | Mann     | Kvinna  | Etternamn                       |
 | --- | -------- | ------- | ------------------------------- |
