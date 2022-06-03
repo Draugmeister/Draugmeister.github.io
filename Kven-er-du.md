@@ -73,7 +73,7 @@ Du var ein skald. Du dikta for ein høvding, reiste rundt på jakt etter gamle v
 - Eit valfritt instrument
 - Ein sax
 
-#### I tillegg kan du velja to:
+#### I tillegg kan du velja to av desse:
 - Vams
 - Fine klede
 - Ekspedisjonsutstyr (5 bruk)
