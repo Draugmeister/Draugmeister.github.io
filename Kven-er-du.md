@@ -13,6 +13,10 @@
 
 ## Kva heiter du?
 
+Trill ein D20 for førenamn, og ein for etternamn.  
+
+Om du er usikker på kva kjønn du er kan du trilla 1D6, oddetal er mann og partaler kvinna.
+
 | D20 | Mann     | Kvinna  | Etternamn                       |
 | --- | -------- | ------- | ------------------------------- |
 | 1.  | Ada      | Arne    | Berg                            |
@@ -27,7 +31,7 @@
 | 1.  | Magna    | Halvard | Vestbygd                        |
 | 1.  | Reidun   | Harald  | Austbygd                        |
 | 1.  | Saga     | Inu     | Bergheim                        |
-| 1.  | Skade    | Lavran  | \-son/dotter (trill på fornamn) |
+| 1.  | Skade    | Lavrans  | \-son/dotter (trill på fornamn) |
 | 1.  | Snøfrid  | Leif    | \-son/dotter (trill på fornamn) |
 | 1.  | Tofa     | Odd     | \-son/dotter (trill på fornamn) |
 | 1.  | Tolla    | Ragnar  | \-son/dotter (trill på fornamn) |
