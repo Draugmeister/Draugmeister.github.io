@@ -1,18 +1,19 @@
 # Kven er du?
 
 Gjenomfør stega under for å finna ut kven karakteren din er.  
+
 Du kan gjera dei i den rekkefølgja du vil. Kanskje du vil finna på eit namn etter at du veit bakgrunnen din, til dømes.
 
-- Trill fram eit namn på tabellen under, eller finn på eit sjølv.
+- **Trill fram eit namn på tabellen under, eller finn på eit sjølv.
 
-- Trill 2D6 og legg saman resultatet for å finna bakgrunnen din.
+- **Trill 2D6 og legg saman resultatet for å finna bakgrunnen din.
 
-- Fordel evnene dine på STR, DEX, CON, INT, WIS og CHA:
+- **Fordel evnene dine på STR, DEX, CON, INT, WIS og CHA:
   +2, +1, +1, 0, 0, -1
 
-- Noter ned livskrafta di (HP), den er 10 +CON.
+- **Noter ned livskrafta di (HP), den er 10 +CON.
 
-- Noter ned bæreevna di (kor mykje du kan bæra), den er 10 +STR.
+- **Noter ned bæreevna di (kor mykje du kan bæra), den er 10 +STR.
 
 
 ## Kva heiter du?
