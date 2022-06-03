@@ -1,4 +1,5 @@
 - [Heim](/)
-- [Setting](Setting.md)
+- [Verda](Setting.md)
+  - [Tida de lev i](Setting.md)
   - [Brattvik](Brattvik.md)
   - [Hardviddo](Hardviddo.md)
