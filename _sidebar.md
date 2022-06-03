@@ -1,5 +1,5 @@
 - [Heim](/)
-- [År 1040 e.kr.](Setting.md)
+- [Noreg i år 1040 e.kr.](Setting.md)
 - [Brattvik og Hardviddo](Brattvik-og-Hardviddo.md)
   - [Brattvik](Brattvik.md)
   - [Hardviddo](Hardviddo.md)
