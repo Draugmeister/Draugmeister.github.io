@@ -1,5 +1,5 @@
 # Kven er du?
-[Link til karakterark](www.LinktilDrive.com).
+[Link til karakterark](www.LinktilDrive.com)
 
 Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei i den rekkefølgja du vil.
 
