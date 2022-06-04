@@ -1,7 +1,7 @@
 # Spelteknisk-og-system
 
-Me bruker Dungeon World som grunnleggande system, med nokre endringar.
-I tillegg bruker me Perilous Wilds (eit suplement for DW) for å genererea verden og for ekstra reglar for ekspedisjonar, slå leir og å rekrutera følgjarar.
+Me bruker Dungeon World som grunnleggande system, med nokre endringar.  
+I tillegg bruker me Perilous Wilds (eit suplement for DW) for å generera verden og for ekstra reglar for ekspedisjonar, slå leir og å rekrutera følgjarar.
 
 ### Dei største endringane frå Dungeon World:
 - __Ingen klassar__. Bakgrunnen din bestemmer berre kva du byrjer med.
