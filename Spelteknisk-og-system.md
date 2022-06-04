@@ -3,6 +3,12 @@
 Me bruker Dungeon World som grunnleggande system, med nokre endringar.
 I tillegg bruker me Perilous Wilds (eit suplement for DW) for å genererea verden og for ekstra reglar for ekspedisjonar, slå leir og å rekrutera følgjarar.
 
+Dei største endringane frå Dungeon World:
+- Ingen klassar. Bakgrunnen din bestemmer berre kva du byrjer med.
+- Skaden din kjem frå våpenet ditt, ikkje klassen din (det er jo ingen klassar).
+- Ingen moves som er avgrensa til klassar. Me finn eller lager moves som høver narrativet.
+- Perilous Wilds sine moves for ekspedisjonar, slå leir og å rekrutera følgjarar (Er i lista med moves under).
+
 ## Dungeon World
 
 Dungeon World er eit narrativt fokusert rollespel. Spelarane og DMen har ein samtale om kva som skjer, og reglane og mekanikken i systemet føl narativet.
