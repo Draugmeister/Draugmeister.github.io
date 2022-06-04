@@ -38,7 +38,7 @@ Trill ein D20 for førenamn, og ein for etternamn.
 
 Om du er usikker på kva kjønn du er kan du trilla D6, oddetal er mann og partaler kvinna.
 
-| D20 | Mann     | Kvinna  | Etternamn                       |
+| D20 | Maskuline førenamn     | Feminine førenamn  | Etternamn                       |
 | --- | -------- | ------- | ------------------------------- |
 | 1.  | Ada      | Arne    | Berg                            |
 | 1.  | Agnhild  | Balder  | Haug                            |
