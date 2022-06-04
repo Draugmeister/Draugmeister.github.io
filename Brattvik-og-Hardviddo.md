@@ -20,3 +20,4 @@ Det er mange bønder i Brattvik, og langs fjordarmane rundt. Det er relativt var
 ## Hardviddo
 
 Hardviddo er eit stort og lunefullt fjellplatå med alt frå frodige fjelldalar med godt beite, til golde høgfjellsområder og blåskimrande isbrear. Det går handelsruter frå aust til vest, men desse er mest brukt om sommaren og kan vera fatale sjølv då. Det er ingen gode kart over området, men bøndene bruker dei næraste dalane til stølsdrift, og er godt kjend i områda dei går i.
+
