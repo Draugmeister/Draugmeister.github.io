@@ -16,6 +16,6 @@ I tillegg kan du velja to av desse:
 
 Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn på eigne.
 
-___ er umusikalsk, og forstår seg ikkje på stor dikting.
-Eg trur ___ har mange gode historiar, kanskje dei kan verta eit sagnomsust sagn eller ein vidgjeten song.
-Eg har høyrdom ___ på reisene mine, eg stoler ikkje på han.
+- ___ er umusikalsk, og forstår seg ikkje på stor dikting.
+- Eg trur ___ har mange gode historiar, kanskje dei kan verta eit sagnomsust sagn eller ein vidgjeten song.
+- Eg har høyrdom ___ på reisene mine, eg stoler ikkje på han.
