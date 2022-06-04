@@ -1,8 +1,6 @@
 # Kven er du?
 
-Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei i den rekkefølgja du vil. Kanskje du vil finna på eit namn etter at du veit bakgrunnen din, til dømes.
-
-- **Trill 2D6 og legg saman resultatet for å finna bakgrunnen din i tabellen under.**
+Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei i den rekkefølgja du vil.
 
 - **Trill fram eit namn med namnegeneratoren, eller finn på eit sjølv.**
 
@@ -11,6 +9,8 @@ Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei 
 - **Noter ned livskrafta di (HP), den er 10 +CON.**
 
 - **Noter ned bæreevna di (kor mykje du kan bæra), den er 10 +STR.**
+
+- **Trill 2D6 og legg saman resultatet for å finna bakgrunnen din i tabellen under.**
 
 
 ### Kva er bakgrunnen din?
@@ -29,5 +29,5 @@ Trill 2d6 på tabellen under for å finna kva bakgrunnen din er.
 | 11   | Handelsreisande |
 | 12   | Prest|
 
-Under finn du lister med kva dei ulike bakgrunnane byrjar med av utstyr. Du kan også ta nokre val om fortida di, men desse kan du også finna ut av medan du speler.
+I menyen til venstre finn du lister med kva dei ulike bakgrunnane byrjar med av utstyr. Du kan også ta nokre val om karakteren din, men desse kan du også finna ut av medan du speler.
 
