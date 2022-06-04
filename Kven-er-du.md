@@ -6,8 +6,7 @@ Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei 
 
 - **Trill fram eit namn med namnegeneratoren, eller finn på eit sjølv.**
 
-- **- Karakteren din har seks evner: STR, DEX, CON, INT, WIS og CHA.  
-  Fordel desse evnepoenga på dei ulike evnene: +2, +1, +1, 0, 0, -1**
+- **Fordel evnenepoenga dine (+2, +1, +1, 0, 0, -1) på STR, DEX, CON, INT, WIS og CHA.**
 
 - **Noter ned livskrafta di (HP), den er 10 +CON.**
 
