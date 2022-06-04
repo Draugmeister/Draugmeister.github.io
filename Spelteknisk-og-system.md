@@ -1,4 +1,4 @@
-# Spelteknisk-og-system
+# Spelteknisk og system
 
 Me bruker Dungeon World som grunnleggande system, med nokre endringar. 
 
