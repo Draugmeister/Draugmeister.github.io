@@ -19,15 +19,15 @@ Bakgrunnen din er kva du gjorde før du vart tvungen til å legga ut på eventyr
 
 Trill 2d6 på tabellen under for å finna kva bakgrunnen din er.
 
-| 2D6 | Bakgrunn |
-| ---- | --------------- |
-| 2    | [Skald](Skald.md)           | 
-|3 | [Soldat](Soldat.md) |
-| 4-5 | [Jegar](Jegar.md) |
-| 6-8  | [Heimføding](Heimføding.md)      |
-| 9-10 | [Tjuv](Tjuv.md)            |
-| 11   | [Handelsreisande](Handelsreisande.md) |
-| 12   | [Prest](Prest.md)|
+| 2D6 | Bakgrunn | Sjangs |
+| ---- | --------------- |----|
+| 2    | [Skald](Skald.md)           | 3% |
+|3 | [Soldat](Soldat.md) | 5% |
+| 4-5 | [Jegar](Jegar.md) | 20%|
+| 6-8  | [Heimføding](Heimføding.md)      | 44% |
+| 9-10 | [Tjuv](Tjuv.md)            | 20% |
+| 11   | [Handelsreisande](Handelsreisande.md) | 5% |
+| 12   | [Prest](Prest.md)| 3% |
 
 I menyen til venstre finn du lister med kva dei ulike bakgrunnane byrjar med av utstyr. Du kan også ta nokre val om karakteren din, men desse kan du også finna ut av medan du speler.
 
