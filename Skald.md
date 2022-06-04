@@ -10,7 +10,7 @@ Du kan velja om du vil ha med deg:
 - Eit valfritt instrument eller skrivesaker.
 
 I tillegg kan du velja to av desse: 
-- Vams, fine klede, ekspedisjonsutstyr (5 bruk) eller proviant (5 bruk)__.
+- Vams, fine klede, ekspedisjonsutstyr (5 bruk) eller proviant (5 bruk).
 
 ### Sosiale band
 
