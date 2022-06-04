@@ -7,7 +7,7 @@ Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei 
 
 - **Trill fram eit namn med namnegeneratoren, eller finn på eit sjølv.**
 
-- **Fordel evnenepoenga dine (+2, +1, +1, 0, 0, -1) på STR, DEX, CON, INT, WIS og CHA.**
+- **Fordel evnenepoenga dine (+2, +1, +1, 0, 0, -1) på STR, DEX, INT, WIS, CON og CHA.**
 
 - **Noter ned livskrafta di (HP), den er 10 +CON.**
 
