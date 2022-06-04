@@ -11,3 +11,4 @@ Du kan velja om du vil ha med deg:
 
 I tillegg kan du velja to av desse: 
 - Vams, fine klede, ekspedisjonsutstyr (5 bruk) eller proviant (5 bruk)__.
+- 
