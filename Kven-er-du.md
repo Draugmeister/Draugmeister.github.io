@@ -41,22 +41,22 @@ Om du er usikker på kva kjønn du er kan du trilla D6, oddetal er mann og parta
 | D20 | ♂-førenamn     | ♀-førenamn  | Etternamn                       |
 | --- | -------- | ------- | ------------------------------- |
 | 1.  | Ada      | Arne    | Berg                            |
-| 1.  | Agnhild  | Balder  | Haug                            |
-| 1.  | Alfrid   | Birger  | Foss                            |
-| 1.  | Borghild | Birk    | Fjell                           |
-| 1.  | Edda     | Brage   | Dal                             |
-| 1.  | Frejdis  | Brand   | Husheim                         |
-| 1.  | Gudborg  | Egil    | Dalheim                         |
-| 1.  | Idun     | Frej    | Fjellheim                       |
-| 1.  | Lia      | Grim    | Nordbygd                        |
-| 1.  | Magna    | Halvard | Vestbygd                        |
-| 1.  | Reidun   | Harald  | Austbygd                        |
-| 1.  | Saga     | Inu     | Bergheim                        |
-| 1.  | Skade    | Lavrans  | \-son/dotter (trill på fornamn) |
-| 1.  | Snøfrid  | Leif    | \-son/dotter (trill på fornamn) |
-| 1.  | Tofa     | Odd     | \-son/dotter (trill på fornamn) |
-| 1.  | Tolla    | Ragnar  | \-son/dotter (trill på fornamn) |
-| 1.  | Unnvor   | Sigleik | \-son/dotter (trill på fornamn) |
-| 1.  | Ylva     | Tor     | \-son/dotter (trill på fornamn) |
-| 1.  | Åshed    | Vendel  | \-son/dotter (trill på fornamn) |
-| 1.  | Ødgun    | Ulvar   | \-son/dotter (trill på fornamn) |
+| 2.  | Agnhild  | Balder  | Haug                            |
+| 3.  | Alfrid   | Birger  | Foss                            |
+| 4.  | Borghild | Birk    | Fjell                           |
+| 5.  | Edda     | Brage   | Dal                             |
+| 6.  | Frejdis  | Brand   | Husheim                         |
+| 7.  | Gudborg  | Egil    | Dalheim                         |
+| 8.  | Idun     | Frej    | Fjellheim                       |
+| 9.  | Lia      | Grim    | Nordbygd                        |
+| 10.  | Magna    | Halvard | Vestbygd                        |
+| 11.  | Reidun   | Harald  | Austbygd                        |
+| 12.  | Saga     | Inu     | Bergheim                        |
+| 13.  | Skade    | Lavrans  | \-son/dotter (trill på fornamn) |
+| 14.  | Snøfrid  | Leif    | \-son/dotter (trill på fornamn) |
+| 15.  | Tofa     | Odd     | \-son/dotter (trill på fornamn) |
+| 16.  | Tolla    | Ragnar  | \-son/dotter (trill på fornamn) |
+| 17.  | Unnvor   | Sigleik | \-son/dotter (trill på fornamn) |
+| 18.  | Ylva     | Tor     | \-son/dotter (trill på fornamn) |
+| 19.  | Åshed    | Vendel  | \-son/dotter (trill på fornamn) |
+| 20.  | Ødgun    | Ulvar   | \-son/dotter (trill på fornamn) |
