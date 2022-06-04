@@ -11,5 +11,5 @@ Ein har noko som heiter moves, som har ein trigger. Til dømes har **Hack and sl
 
 Hjelpsome lenkjer:
 
-- [Playing the game, Dungeon World SRD](https://www.dungeonworldsrd.com/playing-the-game/)  
-  God introduksjon til DW.
+- [Playing the game, Dungeon World SRD](https://www.dungeonworldsrd.com/playing-the-game/), god introduksjon til DW.
+- [Dungeon World Syllabus](https://docs.google.com/document/d/1ORjM3sxhQrwNI_chlNzYFMD5OFHj7u-Rs_gY4kHkzO0/edit), fantastisk dokument med mange gode resurssar.
