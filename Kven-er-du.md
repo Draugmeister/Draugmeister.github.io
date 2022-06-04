@@ -1,6 +1,7 @@
 # Kven er du?
+[Link til karakterark](www.LinktilDrive.com).
 
-Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei i den rekkefølgja du vil. Lag ditt eige karakterark, eller print ut og fyll inn [dette karakterarket](www.LinktilDrive.com).
+Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei i den rekkefølgja du vil.
 
 - **Trill 2D6 og legg saman resultatet for å finna bakgrunnen din i tabellen under.**
 
