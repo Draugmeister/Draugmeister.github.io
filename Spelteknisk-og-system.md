@@ -19,3 +19,4 @@ Hjelpsome lenkjer:
 
 - [Playing the game, Dungeon World SRD](https://www.dungeonworldsrd.com/playing-the-game/), god introduksjon til DW.
 - [Dungeon World Syllabus](https://docs.google.com/document/d/1ORjM3sxhQrwNI_chlNzYFMD5OFHj7u-Rs_gY4kHkzO0/edit), fantastisk dokument med mange gode resurssar.
+- [My Framework for GMing Dungeon World, Spoting Lore](https://spoutinglore.blogspot.com/2020/01/my-framework-for-gming-dungeon-world.html), også nyttig for spelarar, som ein slags introduskjon til DW.
