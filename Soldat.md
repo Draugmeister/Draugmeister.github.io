@@ -7,7 +7,7 @@ Du var ein veltrent soldat, men noko skjedde. Kanskje du kom i ein feide med hø
 Du har med deg 2D6 sylv, proviant (5 bruk), ekspedisjonsutsyr (5 bruk), ein sax og noko du har teke frå ein fiende du drap i kamp.
 
 Du kan velja om du vil ha med deg:
-- Eit sverd, ei krigsøks eller eit spyd.
+- Eit sverd, ei krigsøks eller eit kortspyd.
 
 I tillegg kan du velja ein av desse: 
 - Ekspedisjonsutstyr (5 bruk) og proviant (5 bruk)
