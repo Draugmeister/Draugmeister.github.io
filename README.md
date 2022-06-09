@@ -5,4 +5,4 @@ Ei rollespelverd satt i overgangen mellom vikingtid og mellomalder i Noreg. De e
 De har reist til Brattvik, ein kaupang som ligg ved foten av Hardviddo – eit lunefullt fjellplatå med mange skattar og ressursar, men endå fleire farar.
 
 
-Les meir om [tida de lev i](setting.md), om [kvar de er](Brattvik-og-Hardviddo.md) eller [finn ut kven du er](Kven-er-du.md).
+Les meir om [tida de lev i](setting.md) eller [finn ut kven du er](Kven-er-du.md).
