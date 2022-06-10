@@ -1,4 +1,4 @@
-# Spelteknisk og system
+# Dungeon World
 
 Me bruker Dungeon World som grunnleggande system, med nokre endringar. 
 
@@ -8,7 +8,6 @@ Dei største endringane frå Dungeon World:
 - __Ingen moves som er avgrensa til klassar__. Me finn eller lager moves som høver narrativet.
 - __Perilous Wilds__(eit suplement til DW) sine reglar for ekspedisjonar, slå leir og å rekrutera følgjarar (Er i lista med moves under).
 
-## Dungeon World
 
 Dungeon World er eit narrativt fokusert rollespel. Spelarane og DMen har ein samtale om kva som skjer, og reglane og mekanikken i systemet føl narativet.
 
