@@ -4,15 +4,7 @@ De lev i det kalde nord, langt frå maktsentra sør i Europa. Kristendommen spre
 
 De er ei brokete forsamling som av ulike grunnar er tvungne til å legga ut på eventyr. Kanskje du har vorte urettmessig skulda for eit brotsverk og må byrja eit nytt liv, skuldar ein mektig person ei stor teneste eller du må setta livet på spel for å verna noko du har kjært?
 
-__Under er nokre sanningar om verda.__ Resten finn ein ut medan ein speler, som eit samarbeid mellom spelarane og Draugmeisteren (DM). Til å byrja med kan de velja kvar de er og kva de gjer:
-
-## Kvar er de?
-
-Vel frå lista under, eller kom på ein sjølv:
-
-* De er drivne i land på ei framand strand etter at skipet dekan forliste.
-* De er reist til dei ytste grensene av den kjende verda, kvifor?
-* De har høyrd ein profeti, der de må koma dykk til toppen av eit myteomspunne fjell, kva er profetien?
+__Under er nokre sanningar om verda.__ Resten finn ein ut medan ein speler, som eit samarbeid mellom spelarane og Draugmeisteren (DM). Eit av dei viktigaste prinsippa er å __spela for å finna ut.__
 
 
 ## Gudar og magi
