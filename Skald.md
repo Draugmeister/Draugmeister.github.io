@@ -1,10 +1,8 @@
 # Skald
 
-Du var ein skald. Du dikta for ein høvding, reiste rundt på jakt etter gamle viser eller skreiv ned kvad om gamle heltar.
+Du var ein skald. Du lev og ander for poesien, for forteljinga eller for musikken. Kanskje du har dikta for ein høvding, skrive heroiske kvad om gamle gudar eller reist rundt som omreisande trubadur? No legg du ut på eventyr. Er det for å kunna dikta nye sagnomsuste sagn, eller er det fordi du ikkje har ein annan utveg?
 
-__Kvifor legg du ut på eventy?__
-
-__Vel to du er og to folk trur du er:__
+### Vel to du er og to folk trur du er:
 
 * Romantisk
 * Obskur
