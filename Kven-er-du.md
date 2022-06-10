@@ -60,9 +60,9 @@ Om du er usikker på kva kjønn du er kan du trilla D6, oddetal er mann og parta
 
 ### Bakgrunnar
 
-# Skald
+--------
 
-![https://upload.wikimedia.org/wikipedia/commons/a/ac/Ynglingesaga_28_Gerhard_Munthe.jpg](Munthe)
+# Skald
 
 > Du er ein skald. Du lev og ander for poesien, for forteljinga eller for musikken. Kanskje du har dikta for ein høvding, skrive heroiske kvad om gamle gudar eller reist rundt som omreisande trubadur? 
 >
@@ -97,6 +97,8 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 - ___ er umusikalsk, og forstår seg ikkje på stor dikting.
 - Eg trur ___ har mange gode historiar, kanskje dei kan verta eit sagnomsust sagn eller ein vidgjeten song.
 - Eg har høyrdom ___ på reisene mine, eg stoler ikkje på han.
+
+---------
 
 # Soldat
 
