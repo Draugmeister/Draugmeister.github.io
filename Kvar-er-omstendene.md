@@ -1,5 +1,5 @@
 # Kvar er de?
-Laust basert på [ein bolgpost av Jeremy Strandberg](https://spoutinglore.blogspot.com/2020/04/my-recipe-for-starting-adventures.html).
+Laust basert på [ein blogpost av Jeremy Strandberg](https://spoutinglore.blogspot.com/2020/04/my-recipe-for-starting-adventures.html).
 
 __Vel frå lista under, eller kom på ein sjølv:__
 
