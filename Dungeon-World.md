@@ -11,13 +11,13 @@ Dei største endringane frå Dungeon World:
 
 ### Kort om Dungeon World:
 
-> __Playing Dungeon World means having a conversation__; somebody says something, then you reply, maybe someone else chimes in. We talk about the fiction—the world of the characters and the things that happen around them. 
+> __*Playing Dungeon World means having a conversation;* somebody says something, then you reply, maybe someone else chimes in. We talk about the fiction—the world of the characters and the things that happen around them.__
 >
-> As we play, the rules will chime in, too. They have something to say about the world. There are no turns or rounds in Dungeon World, no rules to say whose turn it is to talk. Instead players take turns in the natural flow of the conversation, which always has some back-and-forth. The GM says something, the players respond. The players ask questions or make statements, the GM tells them what happens next. Dungeon World is never a monologue; it’s always a conversation. 
+> __As we play, the rules will chime in, too. They have something to say about the world. There are no turns or rounds in Dungeon World, no rules to say whose turn it is to talk. Instead players take turns in the natural flow of the conversation, which always has some back-and-forth. The GM says something, the players respond. The players ask questions or make statements, the GM tells them what happens next. Dungeon World is never a monologue; it’s always a conversation.__ 
 >
-> The rules help shape the conversation of play. While the GM and the players are talking, the rules and the fiction are talking, too. Every rule has an explicit fictional trigger that tells you when it is meant to come into the conversation. Like any conversation, the time you spend listening is just as important as the time you spend talking. The details established by the other people at the table (the GM and the other players) are important to you: they might change what moves you can make, set up an opportunity for you, or create a challenge you have to face. 
+> __The rules help shape the conversation of play. While the GM and the players are talking, the rules and the fiction are talking, too. Every rule has an explicit fictional trigger that tells you when it is meant to come into the conversation. Like any conversation, the time you spend listening is just as important as the time you spend talking. The details established by the other people at the table (the GM and the other players) are important to you: they might change what moves you can make, set up an opportunity for you, or create a challenge you have to face.__ 
 >
-> __The conversation works best when we all listen, ask questions, and build on each other’s contributions.__
+> __*The conversation works best when we all listen, ask questions, and build on each other’s contributions.*__
 
 ### Hjelpsame lenkjer:
 
