@@ -1,22 +1,25 @@
 # Dimma og Draugr
 
-De lev i det kalde nord... Trua på kvitekrist brer om seg, men mange held endå på dei heidenske gudane. Dei gamle mektige høvdingane mister makt til både kongen og kyrkja, 
+De lev i det kalde nord, langt frå maktsentra sør i Europa, men trua på Kvitekrist brer om seg. Dei gamle høvdingane mister makta si til kongen og kyrkja. Mange held endå fast ved dei heidenske gudane, men den nye kongen Mange held endå på dei heidenske gudane, men den nye kongen   Dei gamle mektige høvdingane mister makt til både kongen og kyrkja, 
 
-De er vanlege folk som av ulike grunnar er tvungne til å legga ut på eventyr, enten for å byrja eit nytt liv, fordi de skuldar pengar eller fordi noko trugar bygda de bur i.
 
-Under kan de lesa meir om tida de lev i og i menyen til venstre kan du [finna ut kven du er](Kven-er-du.md) og sjå lister over utstyr og trekk.
+
+
+## Gudar og magi
+
+* __Trua på Kvitekrist sprer om seg, men mange trur endå på dei gamle gudane.__
+
+* __I følgje dei gamle gudane kjem alle som er drepne i kamp til Valhall__, medan dei som døyr av alderdom kjem til Hel.
+
+* __Alle trur på magi.__ I form av kristne mirakel, heidenske forbanningar og skrømt, vetter og andre unaturlege vesen.
 
 ## Ærefull krigarkultur
-
-* __Alle som vert drepne i kamp kjem til Valhall__, medan dei som døyr av alderdom kjem til Hel.
 
 * __Æra må vernast for ein kvar pris.__ Det er betre å døy ung og ærefull, enn gamal og grå. Det minste ymt av ærestap må reagerast mot, og sigerherren i ein konflikt vinn noko av æra til taparen.
 
 * __Samfunnet er hierarkisk__. Dei gamle høvdingane og stormennene er på topp, men er avhengige av bøndene sin støtte. Bøndene er frie (for det meste) menn, som eig land. Dei er avhengige av høvdingane for vern. Trællane er ufrie, som slavar, og er nederst på rangstigen.
 
 * __Gåver er makt__. Plikta til å gjengjelda ei gåva er lika stor som plikta til å ta imot. For å etablera makt kan ein gje dyre gåver til nokon som ikkje kan gjengjelda dei, då må dei gjengeldast på andre vis.
-
-* __Folk trur på magi__. Religion osv.
 
 ## Våpen utstyr og klede  
 
