@@ -1,5 +1,5 @@
 - [Heim](/)
-- [Kva er omstendene dekan](Kvar-er-omstendene.md)
+- [Kva er omstendene?](Kvar-er-omstendene.md)
 - [Kven er du?](Kven-er-du.md)
   - [Skald](Skald.md)
   - [Soldat](Soldat.md)
