@@ -27,9 +27,9 @@ Dei største endringane frå Dungeon World:
 
 ---------
 
-# Moves
+### Moves
 
-### Basic moves
+# Basic moves
 
 -----
 
