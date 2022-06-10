@@ -1,6 +1,17 @@
 # Skald
 
-Du var ein skald. Du dikta for ein høvding, reiste rundt på jakt etter gamle viser eller skreiv ned kvad om gamle heltar. No er du i Brattvik, på jakt etter eventyr, kva har ført deg hit?
+Du var ein skald. Du dikta for ein høvding, reiste rundt på jakt etter gamle viser eller skreiv ned kvad om gamle heltar.
+
+__Kvifor legg du ut på eventy?__
+
+__Vel to du er og to folk trur du er:__
+
+* Romantisk
+* Obskur
+* Masete
+* Pretensiøs
+* Oppfinnsam
+* Sprudlande
 
 ### Utstyr og utrustning
 
