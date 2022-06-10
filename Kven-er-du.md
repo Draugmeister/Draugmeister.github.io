@@ -62,6 +62,10 @@ Om du er usikker på kva kjønn du er kan du trilla D6, oddetal er mann og parta
 | 19.  | Åshed    | Vendel  | \-son/dotter (trill på fornamn) |
 | 20.  | Ødgun    | Ulvar   | \-son/dotter (trill på fornamn) |
 
+--------
+
+### Bakgrunnar
+
 # Skald
 
 > Du er ein skald. Du lev og ander for poesien, for forteljinga eller for musikken. Kanskje du har dikta for ein høvding, skrive heroiske kvad om gamle gudar eller reist rundt som omreisande trubadur? 
