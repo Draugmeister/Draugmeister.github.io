@@ -1,13 +1,14 @@
 - [Heim](/)
+- [Kva er omstendene dekan](Kvar-er-omstendene.md)
 - [Kven er du?](Kven-er-du.md)
   - [Skald](Skald.md)
   - [Soldat](Soldat.md)
   - [Jegar](Jegar.md)
   - [Heimføding](Heimføding.md)
-  - [Trell]
-  - [Handelsreisande]
-  - [Handtverkar]
-  - [Prest]
+  - [Trell](Trell.md)
+  - [Handelsreisande](Handelsreisande.md)
+  - [Handtverkar](Handtverkar.md)
+  - [Prest](Prest.md)
 - [Utstyr og våpen](Utstyr-og-våpen.md)
 - [Spelereglar](Spelteknisk-og-system.md)
   - [Trekk](Trekk.md)
