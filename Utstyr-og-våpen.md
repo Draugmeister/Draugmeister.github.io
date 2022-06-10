@@ -1,4 +1,4 @@
-### Våpen
+## Våpen
 
 | Type     | Notat                 | Skade | Vekt | Pris |
 | -------- | --------------------- | ----- | ---- | ---- |
@@ -11,7 +11,7 @@
 | Boge     | near, far, 2h         | d6    | 1    | 16   |
 | Armbrøst | near, far, reload, 2h | d8    | 1    | 30   |
 
-### Reidskap
+## Reidskap
 
 | Type   | Notat         | Skade | Vekt | Pris |
 | ------ | ------------- | ----- | ---- | ---- |
@@ -19,7 +19,7 @@
 | Stav   | close, 2h     | d6    | 1    | 4    |
 | Kniv   | hand, precise | d4    | 0    | 1    |
 
-### Vern
+## Vern
 
 | Type       | Notat | Vern | Vekt | Pris |
 | ---------- | ----- | ---- | ---- | ---- |
@@ -28,14 +28,14 @@
 | Hjelm      | worn  | +1   | 2    | 25   |
 | Vams       | worn  | +1   | 1    | 30   |
 
-### Amunisjon
+## Amunisjon
 
 | Type  | Notat        | Vekt | Pris |
 | ----- | ------------ | ---- | ---- |
 | Piler | 3 ammunisjon | 1    | 6    |
 | Hjelm | 3 ammunisjon | 1    | 12   |
 
-### Klede
+## Klede
 
 | Type           | Notat      | Vekt | Pris |
 | -------------- | ---------- | ---- | ---- |
@@ -45,7 +45,7 @@
 | Flotte klede   | worn       | 0    | 50   |
 | Pels           | worn, warm | 0    | 20   |
 
-### Utstyr
+## Utstyr
 
 | Type                 | Notat                                                        | Vekt | Pris  |
 | -------------------- | ------------------------------------------------------------ | ---- | ----- |
