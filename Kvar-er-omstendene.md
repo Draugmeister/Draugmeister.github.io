@@ -1,7 +1,5 @@
-# Kvar er de?
+# Kvar er omstendene dekan?
 Basert på [ein bolgpost av Jeremy Strandberg](https://spoutinglore.blogspot.com/2020/04/my-recipe-for-starting-adventures.html).
-
-## Kvar?
 
 __Vel frå lista under, eller kom på ein sjølv:__
 
