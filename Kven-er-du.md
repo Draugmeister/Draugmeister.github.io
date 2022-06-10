@@ -3,15 +3,12 @@
 
 Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei i den rekkefølgja du vil.
 
-- **Trill 2D6 og legg saman resultatet for å finna bakgrunnen din i tabellen under.**
+- **Finn bakgrunnen din i tabellen under, og følg linken for å velgja utstyr og personlegdom.**
 
 - **Trill fram eit namn med namnegeneratoren, eller finn på eit sjølv.**
 
-- **Fordel evnenepoenga dine (+2, +1, +1, 0, 0, -1) på STR, DEX, INT, WIS, CON og CHA.**
+- **Fyll inn evnepoeng, bæreevne og livspoeng slik det står på karakterarket.**
 
-- **Noter ned livskrafta di (HP), den er 10 +CON.**
-
-- **Noter ned bæreevna di (kor mykje du kan bæra), den er 10 +STR.**
 
 
 ### Kva er bakgrunnen din?
