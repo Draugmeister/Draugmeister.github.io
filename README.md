@@ -1,18 +1,22 @@
 # Dimma og Draugr
 
-Ei rollespelverd som liknar på Noreg i overgangen mellom vikingtid og mellomalder. De er vanlege folk som av ulike grunnar er tvungne til å legga ut på eventyr, enten for å byrja eit nytt liv, fordi de skuldar pengar eller fordi noko trugar bygda de bur i.
+De lev i det kalde nord... Trua på kvitekrist brer om seg, men mange held endå på dei heidenske gudane. Dei gamle mektige høvdingane mister makt til både kongen og kyrkja, 
 
-Under kan du lesa meir om tida de lev i og i menyen til venstre kan du [finna ut kven du er](Kven-er-du.md) og sjå lister over utstyr og trekk.
+De er vanlege folk som av ulike grunnar er tvungne til å legga ut på eventyr, enten for å byrja eit nytt liv, fordi de skuldar pengar eller fordi noko trugar bygda de bur i.
+
+Under kan de lesa meir om tida de lev i og i menyen til venstre kan du [finna ut kven du er](Kven-er-du.md) og sjå lister over utstyr og trekk.
 
 ## Ærefull krigarkultur
 
-* __Alle som vert drepne i kamp kjem til Valhall__, medan dei som døyr av alderdom kjem til Hel. 
+* __Alle som vert drepne i kamp kjem til Valhall__, medan dei som døyr av alderdom kjem til Hel.
 
 * __Æra må vernast for ein kvar pris.__ Det er betre å døy ung og ærefull, enn gamal og grå. Det minste ymt av ærestap må reagerast mot, og sigerherren i ein konflikt vinn noko av æra til taparen.
 
 * __Samfunnet er hierarkisk__. Dei gamle høvdingane og stormennene er på topp, men er avhengige av bøndene sin støtte. Bøndene er frie (for det meste) menn, som eig land. Dei er avhengige av høvdingane for vern. Trællane er ufrie, som slavar, og er nederst på rangstigen.
 
 * __Gåver er makt__. Plikta til å gjengjelda ei gåva er lika stor som plikta til å ta imot. For å etablera makt kan ein gje dyre gåver til nokon som ikkje kan gjengjelda dei, då må dei gjengeldast på andre vis.
+
+* __Folk trur på magi__. Religion osv.
 
 ## Våpen utstyr og klede  
 
@@ -28,4 +32,4 @@ Under kan du lesa meir om tida de lev i og i menyen til venstre kan du [finna ut
 
 * __Jakt, fiske og beiteområder er viktige ressursar, men vêret skifter fort og mange trekk sitt siste andedrag i høgfjellet__. Store delar av fjella er uoppdaga, og det finst ikkje gode kart.
 
-* __Folk fortel at dei har sett både vetter, troll og skrømt i fjellet. Ein må passa seg for ikkje å bli bergteken.**
+* __Folk fortel at dei har sett både vetter, troll og skrømt i fjellet.__ Ein må passa seg for ikkje å bli bergteken.
