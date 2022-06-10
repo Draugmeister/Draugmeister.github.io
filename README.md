@@ -4,6 +4,8 @@ De lev i det kalde nord, langt frå maktsentra sør i Europa. Kristendommen spre
 
 De er ei brokete forsamling som av ulike grunnar er tvungne til å legga ut på eventyr, enten for å byrja eit nytt liv, fordi de skuldar pengar eller fordi noko trugar bygda de bur i. 
 
+Under er nokre sanningar om verda. Resten
+
 
 ## Gudar og magi
 
