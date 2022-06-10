@@ -16,9 +16,7 @@ Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei 
 
 ### Kva er bakgrunnen din?
 
-Bakgrunnen din er kva du gjorde før du vart tvungen til å legga ut på eventyr.
-
-Trill 2d6 på tabellen under for å finna kva bakgrunnen din er.
+* Trill 2d6 på tabellen under for å finna kva bakgrunnen din er.
 
 | 2D6 | Bakgrunn | Sjangs |
 | ---- | --------------- |----|
@@ -29,8 +27,6 @@ Trill 2d6 på tabellen under for å finna kva bakgrunnen din er.
 | 9-10 | [Tjuv](Tjuv.md)            | 20% |
 | 11   | [Handelsreisande](Handelsreisande.md) | 5% |
 | 12   | [Prest](Prest.md)| 3% |
-
-I menyen til venstre finn du lister med kva dei ulike bakgrunnane byrjar med av utstyr. Du kan også ta nokre val om karakteren din, men desse kan du også finna ut av medan du speler.
 
 
 ### Kva heiter du?
