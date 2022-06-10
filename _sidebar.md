@@ -10,5 +10,5 @@
   - [Handtverkar](Handtverkar.md)
   - [Prest](Prest.md)
 - [Utstyr og våpen](Utstyr-og-våpen.md)
-- [Spelereglar](Spelteknisk-og-system.md)
+- [Dungeon World](Dungeon-World.md)
   - [Trekk](Trekk.md)
