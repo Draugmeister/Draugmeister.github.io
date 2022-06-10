@@ -9,7 +9,7 @@ Dei største endringane frå Dungeon World:
 - __Perilous Wilds__(eit suplement til DW) sine reglar for ekspedisjonar, slå leir og å rekrutera følgjarar (Er i lista med moves under). [Link](https://www.drivethrurpg.com/product/156979/The-Perilous-Wilds)
 
 
-Dungeon World er eit narrativt fokusert rollespel. Spelarane og DMen har ein samtale om kva som skjer, og reglane og mekanikken i systemet føl narrativet.
+### Kort om Dungeon World:
 
 > Playing Dungeon World means having a conversation; somebody says something, then you reply, maybe someone else chimes in. We talk about the fiction—the world of the characters and the things that happen around them. 
 >
