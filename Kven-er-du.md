@@ -7,7 +7,8 @@ Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei 
 
 - **Trill fram eit namn med namnegeneratoren, eller finn på eit sjølv.**
 
-- **Fyll inn evnepoeng, bæreevne og livspoeng slik det står på karakterarket.**
+- **Fyll inn evnepoeng, bæreevne og livspoeng slik det står på [karakterarket](www.LinktilDrive.com)
+.**
 
 
 
