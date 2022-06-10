@@ -1,8 +1,8 @@
 # Dimma og Draugr
 
-De lev i det kalde nord, langt frå maktsentra sør i Europa. Kristendommen sprer om seg, men mange held endå dei gamle gudane ved hevd.
-
-De er ei brokete forsamling som av ulike grunnar er tvungne til å legga ut på eventyr. Kanskje du har vorte urettmessig skulda for eit brotsverk og må byrja eit nytt liv, skuldar ein mektig person ei stor teneste eller du må setta livet på spel for å verna noko du har kjært?
+> De lev i det kalde nord, langt frå maktsentra sør i Europa. Kristendommen sprer om seg, men mange held endå dei gamle gudane ved hevd.
+>
+>De er ei brokete forsamling som av ulike grunnar er tvungne til å legga ut på eventyr. Kanskje du har vorte urettmessig skulda for eit brotsverk og må byrja eit nytt liv, skuldar ein mektig person ei stor teneste eller du må setta livet på spel for å verna noko du har kjært?
 
 __Under er nokre sanningar om verda.__ For å læra meir om verda må ein __spela for å finna ut__.
 
