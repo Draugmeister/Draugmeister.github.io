@@ -4,7 +4,7 @@
   - [Soldat](Soldat.md)
   - [Jegar](Jegar.md)
   - [Heimføding](Heimføding.md)
-  - [Tjuv](Tjuv.md)
+  - [Trell](Trell.md)
   - [Handelsreisande](Handelsreisande.md)
   - [Prest](Prest.md)
 - [Utstyr og våpen](Utstyr-og-våpen.md)
