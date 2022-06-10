@@ -15,7 +15,7 @@ De lev i det kalde nord, langt frå maktsentra sør i Europa, men trua på Kvite
 
 ## Ærefull krigarkultur
 
-* __Krigarane vert sett opp til, og dess finare våpen du har dess betre.__ 
+* __Krigarane vert sett opp til__, og dess finare våpen du har dess høgare status får du.
 
 * __Æra må vernast for ein kvar pris.__ Det er betre å døy ung og ærefull, enn gamal og grå. Det minste ymt av ærestap må reagerast mot, og sigerherren i ein konflikt vinn noko av æra til taparen.
 
