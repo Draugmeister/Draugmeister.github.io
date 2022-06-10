@@ -1,6 +1,6 @@
 # Dimma og Draugr
 
-![Munthe](Bilete/index.png)
+![Munthe](Bilete/test_index.png)
 
 > De lev i det kalde nord, langt frå maktsentra sør i Europa. Kristendommen sprer om seg, men mange held endå dei gamle gudane ved hevd.
 >
