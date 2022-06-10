@@ -4,9 +4,10 @@
   - [Soldat](Soldat.md)
   - [Jegar](Jegar.md)
   - [Heimføding](Heimføding.md)
-  - [Trell](Trell.md)
-  - [Handelsreisande](Handelsreisande.md)
-  - [Prest](Prest.md)
+  - [Trell]
+  - [Handelsreisande]
+  - [Handtverkar]
+  - [Prest]
 - [Utstyr og våpen](Utstyr-og-våpen.md)
 - [Spelereglar](Spelteknisk-og-system.md)
   - [Trekk](Trekk.md)
