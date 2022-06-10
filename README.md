@@ -2,9 +2,17 @@
 
 De lev i det kalde nord, langt frå maktsentra sør i Europa. Kristendommen sprer om seg, men mange held endå dei gamle gudane ved hevd.
 
-De er ei brokete forsamling som av ulike grunnar er tvungne til å legga ut på eventyr, enten for å byrja eit nytt liv, fordi de skuldar pengar eller fordi noko trugar bygda de bur i. 
+De er ei brokete forsamling som av ulike grunnar er tvungne til å legga ut på eventyr. Kanskje du har vorte urettmessig skulda for eit brotsverk og må byrja eit nytt liv, skuldar ein mektig person ei stor teneste eller du må setta livet på spel for å verna noko du har kjært?
 
-Under er nokre sanningar om verda. Resten
+Under er nokre sanningar om verda. Resten finn ein ut medan ein speler, som eit samarbeid mellom spelarane og Draugmeisteren (DM). Til å byrja med kan de velja kvar de er og kva de gjer:
+
+__Vel frå lista under, eller kom på ein sjølv:__
+
+* De er drivne i land på ei framand strand etter at skipet dekan forliste.
+* De er reist til dei ytste grensene av den kjende verda, kvifor?
+* De har høyrd ein profeti, der de må koma dykk til toppen av eit myteomspunne fjell, kva er profetien?
+
+*Basert på [ein bolgpost av Jeremy Strandberg](https://spoutinglore.blogspot.com/2020/04/my-recipe-for-starting-adventures.html).*
 
 
 ## Gudar og magi
