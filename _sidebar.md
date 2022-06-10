@@ -2,5 +2,4 @@
 - [Kven er du?](Kven-er-du.md)
 - [Utstyr og våpen](Utstyr-og-våpen.md)
 - [Dungeon World](Dungeon-World.md)
--
 - [Discord](Discord.md)
