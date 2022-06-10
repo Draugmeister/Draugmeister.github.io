@@ -8,11 +8,11 @@ Under kan du lesa meir om tida de lev i og i menyen til venstre kan du [finna ut
 
 * __Alle som vert drepne i kamp kjem til Valhall__, medan dei som døyr av alderdom kjem til Hel. 
 
-__Æra må vernast for ein kvar pris.__ Det er betre å døy ung og ærefull, enn gamal og grå. Det minste ymt av ærestap må reagerast mot, og sigerherren i ein konflikt vinn noko av æra til taparen.
+* __Æra må vernast for ein kvar pris.__ Det er betre å døy ung og ærefull, enn gamal og grå. Det minste ymt av ærestap må reagerast mot, og sigerherren i ein konflikt vinn noko av æra til taparen.
 
-__Samfunnet er hierarkisk__. Dei gamle høvdingane og stormennene er på topp, men er avhengige av bøndene sin støtte. Bøndene er frie (for det meste) menn, som eig land. Dei er avhengige av høvdingane for vern. Trællane er ufrie, som slavar, og er nederst på rangstigen.
+* __Samfunnet er hierarkisk__. Dei gamle høvdingane og stormennene er på topp, men er avhengige av bøndene sin støtte. Bøndene er frie (for det meste) menn, som eig land. Dei er avhengige av høvdingane for vern. Trællane er ufrie, som slavar, og er nederst på rangstigen.
 
-__Det er vanleg å gje kvarandre gåver__, og plikta til å gjengjelda gåva er lika stor som plikta til å ta imot. For å etablera makt kan ein gje dyre gåver til nokon som ikkje kan gjengjelda dei, då må dei gjengeldast på andre vis.
+* __Det er vanleg å gje kvarandre gåver__, og plikta til å gjengjelda gåva er lika stor som plikta til å ta imot. For å etablera makt kan ein gje dyre gåver til nokon som ikkje kan gjengjelda dei, då må dei gjengeldast på andre vis.
 
 ## Våpen utstyr og klede  
 
