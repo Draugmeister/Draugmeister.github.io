@@ -7,8 +7,7 @@ Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei 
 
 - **Trill fram eit namn med namnegeneratoren, eller finn på eit sjølv.**
 
-- **Fyll inn evnepoeng, bæreevne og livspoeng slik det står på [karakterarket](www.LinktilDrive.com)
-.**
+- **Fyll inn evnepoeng, bæreevne og livspoeng slik det står på [karakterarket](www.LinktilDrive.com).**
 
 
 
@@ -18,13 +17,13 @@ Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei 
 
 | 2D6 | Bakgrunn | Sjangs |
 | ---- | --------------- |----|
-| 2    | [Skald](https://draugmeister.github.io/#/Kven-er-du?id=skald)           | 3% |
-|3 | [Soldat](Soldat.md) | 5% |
-| 4-5 | [Handtverkar](Handtverkar.md) | 20%|
-| 6-8  | [Heimføding](Heimføding.md)      | 44% |
-| 9-10 | [Trell](Trell.md)            | 20% |
-| 11   | [Handelsreisande](Handelsreisande.md) | 5% |
-| 12   | [Prest](Prest.md)| 3% |
+| 2    | [Skald](#Skald)           | 3% |
+|3 | [Soldat](#Soldat) | 5% |
+| 4-5 | [Handtverkar](#Handtverkar) | 20%|
+| 6-8  | [Heimføding](#Heimføding)      | 44% |
+| 9-10 | [Trell](#Trell)            | 20% |
+| 11   | [Handelsreisande](#Handelsreisande) | 5% |
+| 12   | [Prest](#Prest)| 3% |
 
 
 ### Kva heiter du?
