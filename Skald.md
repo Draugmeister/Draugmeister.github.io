@@ -12,6 +12,9 @@ __Vel to du er og to folk trur du er:__
 * Pretensiøs
 * Oppfinnsam
 * Sprudlande
+* Folkeleg
+* Forveten
+* 
 
 ### Utstyr og utrustning
 
