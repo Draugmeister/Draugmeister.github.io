@@ -1,8 +1,8 @@
 # Dimma og Draugr
 
-De lev i det kalde nord, langt frå maktsentra sør i Europa, men trua på Kvitekrist brer om seg. Dei gamle høvdingane mister makta si til kongen og kyrkja. Mange held endå fast ved dei heidenske gudane, men den nye kongen Mange held endå på dei heidenske gudane, men den nye kongen   Dei gamle mektige høvdingane mister makt til både kongen og kyrkja, 
+De lev i det kalde nord, langt frå maktsentra sør i Europa. Kristendommen sprer om seg, men mange held endå dei gamle gudane ved hevd.
 
-
+De er ei brokete forsamling som av ulike grunnar er tvungne til å legga ut på eventyr, enten for å byrja eit nytt liv, fordi de skuldar pengar eller fordi noko trugar bygda de bur i. 
 
 
 ## Gudar og magi
