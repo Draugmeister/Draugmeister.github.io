@@ -30,9 +30,9 @@ Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei 
 
 Trill ein D20 for førenamn, og ein for etternamn.  
 
-Om du er usikker på kva kjønn du er kan du trilla D6, oddetal er mann og partaler kvinna.
+Om du er usikker på kva kjønn du er kan du trilla ein terning, oddetal er mann og partaler kvinna.
 
-| D20 | ♂-førenamn     | ♀-førenamn  | Etternamn                       |
+| D20 | ♀-førenamn     | ♂-førenamn  | Etternamn                       |
 | --- | -------- | ------- | ------------------------------- |
 | 1.  | Ada      | Arne    | Berg                            |
 | 2.  | Agnhild  | Balder  | Haug                            |
