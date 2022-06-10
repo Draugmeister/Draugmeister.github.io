@@ -6,7 +6,7 @@ Dei største endringane frå Dungeon World:
 - __Ingen klassar__. Bakgrunnen din bestemmer berre kva du byrjer med.
 - __Skaden din kjem frå våpenet ditt__, ikkje klassen din (det er jo ingen klassar).
 - __Ingen moves som er avgrensa til klassar__. Me finn eller lager moves som høver narrativet.
-- __Perilous Wilds__(eit suplement til DW) sine reglar for ekspedisjonar, slå leir og å rekrutera følgjarar (Er i lista med moves under). [Link](https://www.drivethrurpg.com/product/156979/The-Perilous-Wilds)
+- __Perilous Wilds__(eit suplement til DW) sine reglar for ekspedisjonar, slå leir og å rekrutera følgjarar (er implmentert i lista med moves). [Link](https://www.drivethrurpg.com/product/156979/The-Perilous-Wilds)
 
 
 ### Kort om Dungeon World:
