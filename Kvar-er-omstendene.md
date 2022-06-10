@@ -17,3 +17,6 @@ __Spørsmål de kan velja å svara på, eller ikkje:__
 * Kva spesifikt er det de er på jakt etter, rømmer frå eller må kjempa mot?
 * Kva kjem i vegen og gjer det vanskelegare?
 
+__Spørmsål de kan stilla kvarandre, eller ikkje:__
+
+*
