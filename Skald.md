@@ -1,8 +1,8 @@
 # Skald
 
-Du er ein skald. Du lev og ander for poesien, for forteljinga eller for musikken. Kanskje du har dikta for ein høvding, skrive heroiske kvad om gamle gudar eller reist rundt som omreisande trubadur? No legg du ut på eventyr. 
-
-Er det for å kunna dikta nye sagnomsuste sagn, eller er det fordi du ikkje har ein annan utveg?
+> Du er ein skald. Du lev og ander for poesien, for forteljinga eller for musikken. Kanskje du har dikta for ein høvding, skrive heroiske kvad om gamle gudar eller reist rundt som omreisande trubadur? 
+>
+> No legg du ut på eventyr. Er det for å kunna dikta nye sagnomsuste sagn, eller er det fordi du ikkje har ein annan utveg?
 
 __Vel to du er og to folk trur du er:__
 
