@@ -11,7 +11,7 @@ Dei største endringane frå Dungeon World:
 
 ### Kort om Dungeon World:
 
-> Playing Dungeon World means having a conversation; somebody says something, then you reply, maybe someone else chimes in. We talk about the fiction—the world of the characters and the things that happen around them. 
+> __Playing Dungeon World means having a conversation__; somebody says something, then you reply, maybe someone else chimes in. We talk about the fiction—the world of the characters and the things that happen around them. 
 >
 > As we play, the rules will chime in, too. They have something to say about the world. There are no turns or rounds in Dungeon World, no rules to say whose turn it is to talk. Instead players take turns in the natural flow of the conversation, which always has some back-and-forth. The GM says something, the players respond. The players ask questions or make statements, the GM tells them what happens next. Dungeon World is never a monologue; it’s always a conversation. 
 >
