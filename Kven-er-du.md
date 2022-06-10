@@ -22,7 +22,7 @@ Trill 2d6 på tabellen under for å finna kva bakgrunnen din er.
 
 | 2D6 | Bakgrunn | Sjangs |
 | ---- | --------------- |----|
-| 2    | [Skald]([[Draugmeister.github.io/blob/main/Kven-er-du.md#skald](https://draugmeister.github.io/#/Kven-er-du?id=skald)](https://draugmeister.github.io/#/Kven-er-du?id=skald))           | 3% |
+| 2    | [Skald]([Draugmeister.github.io/blob/main/Kven-er-du.md#skald)           | 3% |
 |3 | [Soldat](Soldat.md) | 5% |
 | 4-5 | [Jegar](Jegar.md) | 20%|
 | 6-8  | [Heimføding](Heimføding.md)      | 44% |
