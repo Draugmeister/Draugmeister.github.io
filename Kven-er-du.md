@@ -22,9 +22,9 @@ Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei 
 | ---- | --------------- |----|
 | 2    | [Skald](https://draugmeister.github.io/#/Kven-er-du?id=skald)           | 3% |
 |3 | [Soldat](Soldat.md) | 5% |
-| 4-5 | [Jegar](Jegar.md) | 20%|
+| 4-5 | [Handtverkar](Handtverkar.md) | 20%|
 | 6-8  | [Heimføding](Heimføding.md)      | 44% |
-| 9-10 | [Tjuv](Tjuv.md)            | 20% |
+| 9-10 | [Trell](Trell.md)            | 20% |
 | 11   | [Handelsreisande](Handelsreisande.md) | 5% |
 | 12   | [Prest](Prest.md)| 3% |
 
