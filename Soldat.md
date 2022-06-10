@@ -1,6 +1,6 @@
 # Soldat
 
-Du var ein veltrent soldat, men noko skjedde. Kanskje du kom i ein feide med høvdingen du kjempa for, vart beskylt for noko du ikkje hadde gjort eller har ei stor gjeld til ein mektig mann? No er du i brattvik, på jakt etter eit nytt liv eller rikdom.
+Du er ein veltrent soldat. Kanskje du har kjempa for æra til ein høvding, eller for å sikra makt til kongen og kyrkja?
 
 ### Utstyr og utrustning
 
