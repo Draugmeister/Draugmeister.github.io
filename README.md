@@ -7,13 +7,15 @@ De lev i det kalde nord, langt frå maktsentra sør i Europa, men trua på Kvite
 
 ## Gudar og magi
 
-* __Trua på Kvitekrist sprer om seg, men mange trur endå på dei gamle gudane.__
+* __Trua på Kvitekrist sprer om seg, men mange trur endå på dei gamle gudane.__ Også blant dei som tilber den nye guden heng mange av dei gamle tradisjonane og verdian igjen.
 
 * __I følgje dei gamle gudane kjem alle som er drepne i kamp til Valhall__, medan dei som døyr av alderdom kjem til Hel.
 
 * __Alle trur på magi.__ I form av kristne mirakel, heidenske forbanningar og skrømt, vetter og andre unaturlege vesen.
 
 ## Ærefull krigarkultur
+
+* __Krigarane vert sett opp til, og dess finare våpen du har dess betre.__ 
 
 * __Æra må vernast for ein kvar pris.__ Det er betre å døy ung og ærefull, enn gamal og grå. Det minste ymt av ærestap må reagerast mot, og sigerherren i ein konflikt vinn noko av æra til taparen.
 
@@ -22,8 +24,6 @@ De lev i det kalde nord, langt frå maktsentra sør i Europa, men trua på Kvite
 * __Gåver er makt__. Plikta til å gjengjelda ei gåva er lika stor som plikta til å ta imot. For å etablera makt kan ein gje dyre gåver til nokon som ikkje kan gjengjelda dei, då må dei gjengeldast på andre vis.
 
 ## Våpen utstyr og klede  
-
-* __Krigarane vert sett opp til, og dess finare våpen du har dess betre.__ 
 
 * __Dei vanlegaste våpena er spyd, øks, sverd og skjold__. Dei rike har råd til ringbrynja og hjelm, og stasleg utsmykking på utstyr og våpen. Dei fattige må ta til takke med det dei har – økser, knivar, stokkar og kasting av stein.
 
