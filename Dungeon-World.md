@@ -24,3 +24,23 @@ Dei største endringane frå Dungeon World:
 - [Playing the game, Dungeon World SRD](https://www.dungeonworldsrd.com/playing-the-game/), god introduksjon til DW.
 - [Dungeon World Syllabus](https://docs.google.com/document/d/1ORjM3sxhQrwNI_chlNzYFMD5OFHj7u-Rs_gY4kHkzO0/edit), fantastisk dokument med mange gode resurssar.
 - [My Framework for GMing Dungeon World, Spoting Lore](https://spoutinglore.blogspot.com/2020/01/my-framework-for-gming-dungeon-world.html), også nyttig for spelarar, som ein slags introduskjon til DW.
+
+---------
+
+# Moves
+
+### Basic moves
+
+-----
+
+## Hack and Slash
+
+When you *__attack an enemy in melee__*, roll
++STR: on a 10+, you deal your damage to the
+enemy and avoid their attack, unless you
+choose to do +1d6 damage and expose yourself
+to their attack; on a 7–9, you deal your
+damage to the enemy and the enemy makes
+an attack against you.
+
+----
