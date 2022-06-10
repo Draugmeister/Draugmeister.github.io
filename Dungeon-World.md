@@ -44,3 +44,16 @@ damage to the enemy and the enemy makes
 an attack against you.
 
 ----
+
+## Volley
+When you *__take aim and shoot at an enemy at
+range__*, roll +DEX: on a 10+, you have a clear
+shot—deal your damage; on a 7–9, deal your
+damage and choose one:
+- You have to move to get the shot, placing
+yourself in danger (ask the GM how)
+- Take what you can get: -1d6 damage
+- You have to take several shots, reducing
+your ammo by one
+
+----
