@@ -57,3 +57,39 @@ yourself in danger (ask the GM how)
 your ammo by one
 
 ----
+
+## Defy Danger
+When you *__act in the fact of imminent threat
+or calamity__*, say what you do and roll...  
+
+... +STR if you power through  
+... +DEX if you act fast  
+... +CON if you endure  
+... +INT if you think fast  
+... +WIS if you steel your will  
+... +CHA if you charm your way out  
+
+On a 10+, you do it, and the threat doesn’t
+come to bear; on a 7–9, you stumble, hesitate,
+or flinch: the GM will offer you a worse
+outcome, hard bargain, or ugly choice.
+
+----
+
+## Defend
+When you *__stand in defense of a person, item,
+or location under attack__*, roll +CON: on a 10+,
+hold 3; on a 7–9, hold 1. As long as you stand
+in defense, when you or the thing you defend
+is attacked you may spend hold, 1 for 1, to
+choose an option:
+- Redirect an attack from the thing
+you defend to yourself
+- Halve the attack’s effect or damage
+- Open up the attacker to an ally
+giving that ally +1 forward against
+the attacker
+- Deal damage to the attacker equal
+to your level
+
+----
