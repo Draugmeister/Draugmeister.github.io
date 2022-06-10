@@ -137,4 +137,29 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 - Om me må slåss stoler eg på at ___ greier seg sjølv.
 - Eg stoler ikkje på ___, dei pønsker på noko.
 
+# Handelsreisande
+
+> ...
+
+__Vel to du er og to du føler at du må vera:__
+
+* Sparsam
+* Streng
+* Vaktsam
+* Ekstrovert
+* Påliteleg
+* Kalkulerande
+* Røynsle
+* Sterk
+* Smigrande
+
+### Utstyr og utrustning
+
+
+
+### Sosiale band
+
+Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn på eigne.
+
+- Eg stoler ikkje på ___, dei pønsker på noko.
 
