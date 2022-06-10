@@ -1,5 +1,4 @@
 - [Heim](/)
-- [Omstende](Kvar-er-omstendene.md)
 - [Kven er du?](Kven-er-du.md)
   - [Skald](Skald.md)
   - [Soldat](Soldat.md)
