@@ -63,9 +63,7 @@ Om du er usikker på kva kjønn du er kan du trilla ein terning, oddetal er mann
 
 # Skald
 
-> Du er ein skald. Du lev og ander for poesien, for forteljinga eller for musikken. Kanskje du har dikta for ein høvding, skrive heroiske kvad om gamle gudar eller reist rundt som omreisande trubadur? 
->
-> No legg du ut på eventyr. Er det for å kunna dikta nye sagnomsuste sagn, eller er det fordi du ikkje har ein annan utveg?
+> Du er ein skald. Du lev og ander for poesien. Kanskje du har dikta for ein høvding, skrive heroiske kvad om gamle gudar eller reist rundt som omreisande trubadur? 
 
 __Vel to du er og to folk trur du er:__
 
@@ -139,9 +137,7 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 
 # Handverkar
 
-> Du gjekk i læra frå tidleg alder og vart god i det du gjorde. Kanskje du lærte det frå far din, eller frå ein gamal mester. Kanskje du reiste rundt frå kaupang til kaupang, eller arbeidde for ein høvding?
->
-> No legg du ut på eventyr, er det av lyst eller av naudsyn?
+> Du gjekk i læra frå tidleg alder og vart god i det du gjorde. Kanskje du arbeidde på ein kaupang, var den beste smeden i mils omkrins eller arbeidde for ein høvding?
 
 __Vel to du er og to du føler at du må vera:__
 
@@ -177,9 +173,7 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 
 # Heimføding
 
-> Du har aldri reist frå bygda du vaks opp i. Du har måtta ta vare på garden, dyra og familien din. Det har vore trange kår og mykje slit.
-> 
-> No legg du ut på eventyr, kva er det som har fått deg til å bryta opp?
+> Du har aldri før reist frå bygda du vaks opp i. Det har vore trange kår, og du har måtta ta vare på dyra og garden for at du og familien skulle overleva. 
 
 __Vel to du prøver å vera og to du skulle ynskja du slapp å vera:__
 
@@ -214,9 +208,9 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 
 ----
 
-# Trell
+# Frihals
 
-> ...
+> Du var ein ufri trell, eigd av eit anna menneskje, men du vart fri. Kanskje eigaren din forbarma seg over deg, kanskje du kjøpte deg fri eller kanskje du rømde ei mørk og klad vinternatt?
 
 __Vel to du er og to du føler at du må vera:__
 
