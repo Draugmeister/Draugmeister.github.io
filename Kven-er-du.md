@@ -21,7 +21,7 @@ Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei 
 |3 | [Soldat](#Soldat) | 5% |
 | 4-5 | [Handverkar](#Handverkar) | 20%|
 | 6-8  | [Heimføding](#Heimføding)      | 44% |
-| 9-10 | [Trell](#Trell)            | 20% |
+| 9-10 | [Frihals](#Frihals)            | 20% |
 | 11   | [Handelsreisande](#Handelsreisande) | 5% |
 | 12   | [Prest](#Prest)| 3% |
 
