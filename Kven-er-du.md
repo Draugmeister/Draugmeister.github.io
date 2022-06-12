@@ -19,7 +19,7 @@ Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei 
 | ---- | --------------- |----|
 | 2    | [Skald](#Skald)           | 3% |
 |3 | [Soldat](#Soldat) | 5% |
-| 4-5 | [Handtverkar](#Handtverkar) | 20%|
+| 4-5 | [Handverkar](#Handverkar) | 20%|
 | 6-8  | [Heimføding](#Heimføding)      | 44% |
 | 9-10 | [Trell](#Trell)            | 20% |
 | 11   | [Handelsreisande](#Handelsreisande) | 5% |
@@ -127,7 +127,6 @@ I tillegg kan du velja ein av desse:
 - Ringbrynja
 - Eit skjold og ein hjelm
 
-
 ### Sosiale band
 
 Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn på eigne.
@@ -135,6 +134,105 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 - ___ er svak, dei held ikkje ut lenge.
 - Om me må slåss stoler eg på at ___ greier seg sjølv.
 - Eg stoler ikkje på ___, dei pønsker på noko.
+
+----
+
+# Handverkar
+
+> Du gjekk i læra frå tidleg alder og vart god i det du gjorde. Kanskje du lærte det frå far din, eller frå ein gamal mester. Kanskje du reiste rundt frå kaupang til kaupang, eller arbeidde for ein høvding?
+>
+> No legg du ut på eventyr, er det av lyst eller av naudsyn?
+
+__Vel to du er og to du føler at du må vera:__
+
+* Presis
+* Påliteleg
+* Pliktoppfyllande
+* Sterk
+* Høfleg
+* Stutt
+* Roleg
+* Utagerande
+* Sosial
+
+### Utstyr og utrustning
+
+Du har med deg 1D6 sylv, proviant (5 bruk), ekspedisjonsutsyr (5 bruk), ein kniv og noko du har fått av læremeisteren din.
+
+Du har og med deg: 
+- Eit valfritt reidskap som du treng til handverket ditt.
+
+I tillegg kan du velja ein av desse: 
+- Ekspedisjonsutstyr (5 bruk)
+- Proviant (5 bruk)
+- Ein sax eller ein stokk.
+
+### Sosiale band
+
+Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn på eigne.
+
+- Dette er ikkje fyrste gong eg møte ____.
+
+----
+
+# Heimføding
+
+> Du har aldri reist frå bygda du vaks opp i. Du har måtta ta vare på garden, dyra og familien din. Det har vore trange kår og mykje slit.
+> 
+> No legg du ut på eventyr, kva er det som har fått deg til å bryta opp?
+
+__Vel to du prøver å vera og to du skulle ynskja du slapp å vera:__
+
+* Seig
+* Seig
+* Sterk
+* Ordknapp
+* Omgjengeleg
+* Sprudlande
+* Smidig
+* Kvikk
+* Snarrådig
+
+### Utstyr og utrustning
+
+Du har med deg 1D6 sylv, proviant (5), ekspedisjonsutstyr (5), ein kniv og eit arvestykke som har vore i familien i generasjonar.
+
+Du kan og velja ein av desse:
+- Ein sax, ei vedøks eller ein stokk.
+
+I tillegg kan du velja ein av desse:
+- Ekspedisjonsutstyr (5)
+- Proviant (5)
+- Ein vams
+
+### Sosiale band
+
+Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn på eigne.
+
+- ___ er jålette, det kjem til å gå ut over oss alle.
+- 
+
+----
+
+# Trell
+
+> ...
+
+__Vel to du er og to du føler at du må vera:__
+
+*
+
+### Utstyr og utrustning
+
+
+
+### Sosiale band
+
+Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn på eigne.
+
+-
+
+----
 
 # Handelsreisande
 
@@ -161,4 +259,24 @@ __Vel to du er og to du føler at du må vera:__
 Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn på eigne.
 
 - Eg stoler ikkje på ___, dei pønsker på noko.
+
+----
+
+# Prest
+
+> ...
+
+__Vel to du er og to du føler at du må vera:__
+
+*
+
+### Utstyr og utrustning
+
+
+
+### Sosiale band
+
+Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn på eigne.
+
+-
 
