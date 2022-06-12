@@ -3,7 +3,7 @@
 
 Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei i den rekkefølgja du vil.
 
-- **Finn bakgrunnen din i tabellen under, og følg linken for å velgja utstyr og personlegdom.**
+- **Finn bakgrunnen din i tabellen under, og følg linken for å ta nokre val om kven du er og kva du har med deg.**
 
 - **Trill fram eit namn med namnegeneratoren, eller finn på eit sjølv.**
 
