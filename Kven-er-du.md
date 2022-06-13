@@ -73,7 +73,7 @@ __Kva driv deg?__
 * Pengar og status
 * Historiar og eventyr
 * Gode gjerningar
-*  Å sjå folk lida
+* Å sjå folk lida
 
 __Vel to du er og to folk trur du er:__
 
@@ -95,7 +95,7 @@ Du kan velja om du vil ha med deg:
 - Eit valfritt instrument eller skrivesaker.
 
 I tillegg kan du velja to av desse: 
-- Vams, ein boge og ein bunt piler, fine klede, ekspedisjonsutstyr (5 bruk) eller proviant (5 bruk).
+- Vams, ein boge og ein bunt piler, fine klede, ekspedisjonsutstyr (5 bruk), proviant (5 bruk) eller eit esel.
 
 ### Sosiale band
 
@@ -119,7 +119,7 @@ __Kva driv deg?__
 * Pengar og status
 * Historiar og eventyr
 * Gode gjerningar
-*  Å sjå folk lida
+* Å sjå folk lida
 
 __Vel to du har måtta vera som soldat og to som du eigentleg er:__
 
@@ -135,15 +135,15 @@ __Vel to du har måtta vera som soldat og to som du eigentleg er:__
 
 ### Utstyr og utrustning
 
-Du har med deg 2D6 sylv, proviant (5 bruk), ekspedisjonsutsyr (5 bruk), ein sax og noko du har teke frå ein fiende du drap i kamp.
+Du har med deg 2D6 sylv, proviant (5 bruk), ekspedisjonsutsyr (5 bruk) og noko du har teke frå ein fiende du drap i kamp.
 
-Du kan velja om du vil ha med deg:
-- Eit sverd, ei krigsøks eller eit kortspyd.
+Av våpen har du typisk utrustning for ein soldat:
+- Eit sverd, ei krigsøks, eit kortspyd og ein sax.
 
 I tillegg kan du velja ein av desse: 
 - Ekspedisjonsutstyr (5 bruk) og proviant (5 bruk)
-- Ringbrynja
 - Eit skjold og ein hjelm
+- Ein boge og ein bunt piler
 
 ### Sosiale band
 
@@ -183,15 +183,13 @@ __Vel to du er og to du føler at du må vera:__
 
 ### Utstyr og utrustning
 
-Du har med deg 1D6 sylv, proviant (5 bruk), ekspedisjonsutsyr (5 bruk), ein kniv og noko du har fått av læremeisteren din.
+Du har med deg 1D6 sylv, proviant (5 bruk), ekspedisjonsutsyr (5 bruk), ein kniv, eit reidskap som du treng til handverket ditt og noko du har fått av læremeisteren din.
 
-Du har og med deg: 
-- Eit valfritt reidskap som du treng til handverket ditt.
-
-I tillegg kan du velja ein av desse: 
+I tillegg kan du velja to av desse: 
 - Ekspedisjonsutstyr (5 bruk)
 - Proviant (5 bruk)
-- Ein sax eller ein stokk.
+- Ein sax
+- Ein stokk
 
 ### Sosiale band
 
@@ -235,9 +233,10 @@ Du kan og velja ein av desse:
 - Ein sax, ei vedøks eller ein stokk.
 
 I tillegg kan du velja ein av desse:
-- Ekspedisjonsutstyr (5)
-- Proviant (5)
+- Ekspedisjonsutstyr (5) og proviant (5)
 - Ein vams
+- Eit skjold
+- Eit spyd
 
 ### Sosiale band
 
@@ -268,7 +267,13 @@ __Vel to du er og to du føler at du må vera:__
 
 ### Utstyr og utrustning
 
+Du har med deg 1D4 sylv, proviant (5), ein kniv og noko som tilhøyrde han som eigde deg.
 
+Du har på deg lurvete klede.
+
+I tillegg kan du velja ein av desse:
+- Ekspedisjonsutstyr (5)
+- Ein stokk
 
 ### Sosiale band
 
@@ -306,7 +311,15 @@ __Vel to du er og to du føler at du må vera:__
 
 ### Utstyr og utrustning
 
+Du har med deg 3D6 sylv, proviant (5), ekspedisjonsutstyr (5), ein fin kniv, ein sax og noko verdifult du har bytta til deg
 
+Du har på deg fine klede.
+
+Vel ein:
+- Proviant (5) og Ekspedisjonsutstyr (5)
+- Eit sverd
+- Eit telt og ein sovepose
+- Ein hest
 
 ### Sosiale band
 
@@ -336,7 +349,15 @@ __Vel to du er og to du føler at du må vera:__
 
 ### Utstyr og utrustning
 
+Du har med deg 4D6 sylv, proviant (5), ekspedisjonsutstyr (5), ein stokk og eit hellig symbol.
 
+Du har på deg ein fin kjortel.
+
+Vel ein:
+- Proviant (10) og Ekspedisjonsutstyr (10)
+- Eit sverd og eit skjold
+- Ei lykt med olje og lekjande urter (5)
+- Ein hest
 
 ### Sosiale band
 
