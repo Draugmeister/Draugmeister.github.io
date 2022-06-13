@@ -3,7 +3,9 @@
 
 Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei i den rekkefølgja du vil.
 
-- **Finn bakgrunnen din i tabellen under, og følg linken for å ta nokre val om kven du er og kva du har med deg.**
+- **Finn bakgrunnen din. 
+  - Trill i tabellen under for å finna bakgrunnen din.
+  - Følg linken for å ta nokre val om kven du er og kva du har med deg.
 
 - **Trill fram eit namn med namnegeneratoren, eller finn på eit sjølv.**
 
@@ -26,7 +28,7 @@ Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei 
 | 12   | [Prest](#Prest)| 3% |
 
 
-### Kva heiter du?
+## Kva heiter du?
 
 Trill ein D20 for førenamn, og ein for etternamn.  
 
@@ -63,7 +65,17 @@ Om du er usikker på kva kjønn du er kan du trilla ein terning, oddetal er mann
 
 # Skald
 
-> Du er ein skald. Du lev og ander for poesien. Kanskje du har dikta for ein høvding, skrive heroiske kvad om gamle gudar eller reist rundt som omreisande trubadur? 
+> Du er ein skald. Kanskje du har dikta for ein høvding, skrive heroiske kvad om gamle gudar eller reist rundt som omreisande trubadur? 
+
+### Personlegdom
+
+__Kva driv deg?__
+
+* Æra og ry
+* Pengar og status
+* Historiar og eventyr
+* Gode gjerningar
+*  Å sjå folk lida
 
 __Vel to du er og to folk trur du er:__
 
@@ -75,7 +87,7 @@ __Vel to du er og to folk trur du er:__
 * Sprudlande
 * Folkeleg
 * Forveten
-* 
+* Rappkjefta
 
 ### Utstyr og utrustning
 
@@ -85,7 +97,7 @@ Du kan velja om du vil ha med deg:
 - Eit valfritt instrument eller skrivesaker.
 
 I tillegg kan du velja to av desse: 
-- Vams, fine klede, ekspedisjonsutstyr (5 bruk) eller proviant (5 bruk).
+- Vams, ein boge og ein bunt piler, fine klede, ekspedisjonsutstyr (5 bruk) eller proviant (5 bruk).
 
 ### Sosiale band
 
@@ -99,7 +111,17 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 
 # Soldat
 
-> Du er ein veltrent soldat. Kanskje du har kjempa for æra til ein høvding, eller for å sikra makt til kongen og kyrkja?
+> Du er ein veltrent soldat, kven eller kva kjempar du for no?
+
+### Personlegdom
+
+__Kva driv deg?__
+
+* Æra og ry
+* Pengar og status
+* Historiar og eventyr
+* Gode gjerningar
+*  Å sjå folk lida
 
 __Vel to du har måtta vera som soldat og to som du eigentleg er:__
 
@@ -139,6 +161,16 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 
 > Du gjekk i læra frå tidleg alder og vart god i det du gjorde. Kanskje du arbeidde på ein kaupang, var den beste smeden i mils omkrins eller arbeidde for ein høvding?
 
+### Personlegdom
+
+__Kva driv deg?__
+
+* Æra og ry
+* Pengar og status
+* Historiar og eventyr
+* Gode gjerningar
+* Å sjå folk lida
+
 __Vel to du er og to du føler at du må vera:__
 
 * Presis
@@ -174,6 +206,16 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 # Heimføding
 
 > Du har aldri før reist frå bygda du vaks opp i. Det har vore trange kår, og du har måtta ta vare på dyra og garden for at du og familien skulle overleva. 
+
+### Personlegdom
+
+__Kva driv deg?__
+
+* Æra og ry
+* Pengar og status
+* Historiar og eventyr
+* Gode gjerningar
+* Å sjå folk lida
 
 __Vel to du prøver å vera og to du skulle ynskja du slapp å vera:__
 
@@ -212,6 +254,16 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 
 > Du var ein ufri trell, eigd av eit anna menneskje, men du vart fri. Kanskje eigaren din forbarma seg over deg, kanskje du kjøpte deg fri eller kanskje du rømde ei mørk og klad vinternatt?
 
+### Personlegdom
+
+__Kva driv deg?__
+
+* Æra og ry
+* Pengar og status
+* Historiar og eventyr
+* Gode gjerningar
+* Å sjå folk lida
+
 __Vel to du er og to du føler at du må vera:__
 
 *
@@ -231,6 +283,16 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 # Handelsreisande
 
 > ...
+
+### Personlegdom
+
+__Kva driv deg?__
+
+* Æra og ry
+* Pengar og status
+* Historiar og eventyr
+* Gode gjerningar
+* Å sjå folk lida
 
 __Vel to du er og to du føler at du må vera:__
 
@@ -259,6 +321,16 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 # Prest
 
 > ...
+
+### Personlegdom
+
+__Kva driv deg?__
+
+* Æra og ry
+* Pengar og status
+* Historiar og eventyr
+* Gode gjerningar
+* Å sjå folk lida
 
 __Vel to du er og to du føler at du må vera:__
 
