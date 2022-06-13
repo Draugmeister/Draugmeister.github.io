@@ -3,7 +3,7 @@
 
 Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei i den rekkefølgja du vil.
 
-- **Finn bakgrunnen din. 
+- **Finn bakgrunnen din.**
   - Trill i tabellen under for å finna bakgrunnen din.
   - Følg linken for å ta nokre val om kven du er og kva du har med deg.
 
