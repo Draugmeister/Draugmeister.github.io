@@ -64,13 +64,13 @@ Stor bjørn dekt i svartblå ravnefjør, med to store vinger. Drepen.
 
 # Nord
 
-### Bygd ✧ Frejvik
+## Bygd ✧ Frejvik
 
 *Kaldt, trygt*
 
 Heimen til Frej Balderson
 
-### Bygd ✧ Lofthus
+## Bygd ✧ Lofthus
 
 *Kaldt, trygt*
 
