@@ -1,13 +1,15 @@
 # Kven er du?
-[Link til karakterark](www.LinktilDrive.com)
+[Link til karakterark](https://drive.google.com/file/d/1I_-0vg_VR7Je0YYTF9GNDOqEbJYLGAKJ/view?usp=sharing)
 
 Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei i den rekkefølgja du vil.
 
-- **Finn bakgrunnen din i tabellen under, og følg linken for å velgja utstyr og personlegdom.**
+- **Finn bakgrunnen din i tabellen under, og følg linken for å ta nokre val om kven du er og kva du har med deg.**
+
+- **Skriv opp vekta til det du har med deg, ut frå [lista over utstyr og våpen](Utstyr-og-våpen.md).**
 
 - **Trill fram eit namn med namnegeneratoren, eller finn på eit sjølv.**
 
-- **Fyll inn evnepoeng, bæreevne og livspoeng slik det står på [karakterarket](www.LinktilDrive.com).**
+- **Fyll inn evnepoeng, bæreevne og livspoeng slik det står på [karakterarket](https://drive.google.com/file/d/1I_-0vg_VR7Je0YYTF9GNDOqEbJYLGAKJ/view?usp=sharing).**
 
 
 
@@ -19,14 +21,14 @@ Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei 
 | ---- | --------------- |----|
 | 2    | [Skald](#Skald)           | 3% |
 |3 | [Soldat](#Soldat) | 5% |
-| 4-5 | [Handtverkar](#Handtverkar) | 20%|
+| 4-5 | [Handverkar](#Handverkar) | 20%|
 | 6-8  | [Heimføding](#Heimføding)      | 44% |
-| 9-10 | [Trell](#Trell)            | 20% |
+| 9-10 | [Frihals](#Frihals)            | 20% |
 | 11   | [Handelsreisande](#Handelsreisande) | 5% |
 | 12   | [Prest](#Prest)| 3% |
 
 
-### Kva heiter du?
+## Kva heiter du?
 
 Trill ein D20 for førenamn, og ein for etternamn.  
 
@@ -63,9 +65,17 @@ Om du er usikker på kva kjønn du er kan du trilla ein terning, oddetal er mann
 
 # Skald
 
-> Du er ein skald. Du lev og ander for poesien, for forteljinga eller for musikken. Kanskje du har dikta for ein høvding, skrive heroiske kvad om gamle gudar eller reist rundt som omreisande trubadur? 
->
-> No legg du ut på eventyr. Er det for å kunna dikta nye sagnomsuste sagn, eller er det fordi du ikkje har ein annan utveg?
+> Du er ein skald. Kanskje du har dikta for ein høvding, skrive heroiske kvad om gamle gudar eller reist rundt som omreisande trubadur? 
+
+### Personlegdom
+
+__Kva driv deg?__
+
+* Æra og ry
+* Pengar og status
+* Historiar og eventyr
+* Gode gjerningar
+* Å sjå folk lida
 
 __Vel to du er og to folk trur du er:__
 
@@ -77,7 +87,7 @@ __Vel to du er og to folk trur du er:__
 * Sprudlande
 * Folkeleg
 * Forveten
-* 
+* Rappkjefta
 
 ### Utstyr og utrustning
 
@@ -87,7 +97,7 @@ Du kan velja om du vil ha med deg:
 - Eit valfritt instrument eller skrivesaker.
 
 I tillegg kan du velja to av desse: 
-- Vams, fine klede, ekspedisjonsutstyr (5 bruk) eller proviant (5 bruk).
+- Vams, ein boge og ein bunt piler, fine klede, ekspedisjonsutstyr (5 bruk), proviant (5 bruk) eller eit esel.
 
 ### Sosiale band
 
@@ -101,7 +111,17 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 
 # Soldat
 
-> Du er ein veltrent soldat. Kanskje du har kjempa for æra til ein høvding, eller for å sikra makt til kongen og kyrkja?
+> Du er ein veltrent soldat, kven eller kva kjempar du for no?
+
+### Personlegdom
+
+__Kva driv deg?__
+
+* Æra og ry
+* Pengar og status
+* Historiar og eventyr
+* Gode gjerningar
+* Å sjå folk lida
 
 __Vel to du har måtta vera som soldat og to som du eigentleg er:__
 
@@ -117,16 +137,15 @@ __Vel to du har måtta vera som soldat og to som du eigentleg er:__
 
 ### Utstyr og utrustning
 
-Du har med deg 2D6 sylv, proviant (5 bruk), ekspedisjonsutsyr (5 bruk), ein sax og noko du har teke frå ein fiende du drap i kamp.
+Du har med deg 2D6 sylv, proviant (5 bruk), ekspedisjonsutsyr (5 bruk) og noko du har teke frå ein fiende du drap i kamp.
 
-Du kan velja om du vil ha med deg:
-- Eit sverd, ei krigsøks eller eit kortspyd.
+Av våpen har du typisk utrustning for ein soldat:
+- Eit sverd, ei krigsøks, eit kortspyd og ein sax.
 
 I tillegg kan du velja ein av desse: 
 - Ekspedisjonsutstyr (5 bruk) og proviant (5 bruk)
-- Ringbrynja
 - Eit skjold og ein hjelm
-
+- Ein boge og ein bunt piler
 
 ### Sosiale band
 
@@ -136,9 +155,149 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 - Om me må slåss stoler eg på at ___ greier seg sjølv.
 - Eg stoler ikkje på ___, dei pønsker på noko.
 
+----
+
+# Handverkar
+
+> Du gjekk i læra frå tidleg alder og vart god i det du gjorde. Kanskje du arbeidde på ein kaupang, var den beste smeden i mils omkrins eller arbeidde for ein høvding?
+
+### Personlegdom
+
+__Kva driv deg?__
+
+* Æra og ry
+* Pengar og status
+* Historiar og eventyr
+* Gode gjerningar
+* Å sjå folk lida
+
+__Vel to du er og to du føler at du må vera:__
+
+* Presis
+* Påliteleg
+* Pliktoppfyllande
+* Sterk
+* Høfleg
+* Stutt
+* Roleg
+* Utagerande
+* Sosial
+
+### Utstyr og utrustning
+
+Du har med deg 1D6 sylv, proviant (5 bruk), ekspedisjonsutsyr (5 bruk), ein kniv, eit reidskap som du treng til handverket ditt og noko du har fått av læremeisteren din.
+
+I tillegg kan du velja to av desse: 
+- Ekspedisjonsutstyr (5 bruk)
+- Proviant (5 bruk)
+- Ein sax
+- Ein stokk
+
+### Sosiale band
+
+Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn på eigne.
+
+- Dette er ikkje fyrste gong eg møte ____.
+
+----
+
+# Heimføding
+
+> Du har aldri før reist frå bygda du vaks opp i. Det har vore trange kår, og du har måtta ta vare på dyra og garden for at du og familien skulle overleva. 
+
+### Personlegdom
+
+__Kva driv deg?__
+
+* Æra og ry
+* Pengar og status
+* Historiar og eventyr
+* Gode gjerningar
+* Å sjå folk lida
+
+__Vel to du prøver å vera og to du skulle ynskja du slapp å vera:__
+
+* Seig
+* Seig
+* Sterk
+* Ordknapp
+* Omgjengeleg
+* Sprudlande
+* Smidig
+* Kvikk
+* Snarrådig
+
+### Utstyr og utrustning
+
+Du har med deg 1D6 sylv, proviant (5), ekspedisjonsutstyr (5), ein kniv og eit arvestykke som har vore i familien i generasjonar.
+
+Du kan og velja ein av desse:
+- Ein sax, ei vedøks eller ein stokk.
+
+I tillegg kan du velja ein av desse:
+- Ekspedisjonsutstyr (5) og proviant (5)
+- Ein vams
+- Eit skjold
+- Eit spyd
+
+### Sosiale band
+
+Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn på eigne.
+
+- ___ er jålette, det kjem til å gå ut over oss alle.
+- 
+
+----
+
+# Frihals
+
+> Du var ein ufri trell, eigd av eit anna menneskje, men du vart fri. Kanskje eigaren din forbarma seg over deg, kanskje du kjøpte deg fri eller kanskje du rømde ei mørk og klad vinternatt?
+
+### Personlegdom
+
+__Kva driv deg?__
+
+* Æra og ry
+* Pengar og status
+* Historiar og eventyr
+* Gode gjerningar
+* Å sjå folk lida
+
+__Vel to du er og to du føler at du må vera:__
+
+*
+
+### Utstyr og utrustning
+
+Du har med deg 1D4 sylv, proviant (5), ein kniv og noko som tilhøyrde han som eigde deg.
+
+Du har på deg lurvete klede.
+
+I tillegg kan du velja ein av desse:
+- Ekspedisjonsutstyr (5)
+- Ein stokk
+
+### Sosiale band
+
+Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn på eigne.
+
+-
+
+----
+
 # Handelsreisande
 
 > ...
+
+### Personlegdom
+
+__Kva driv deg?__
+
+* Æra og ry
+* Pengar og status
+* Historiar og eventyr
+* Gode gjerningar
+* Å sjå folk lida
 
 __Vel to du er og to du føler at du må vera:__
 
@@ -154,11 +313,57 @@ __Vel to du er og to du føler at du må vera:__
 
 ### Utstyr og utrustning
 
+Du har med deg 3D6 sylv, proviant (5), ekspedisjonsutstyr (5), ein fin kniv, ein sax og noko verdifult du har bytta til deg
 
+Du har på deg fine klede.
+
+Vel ein:
+- Proviant (5) og Ekspedisjonsutstyr (5)
+- Eit sverd
+- Eit telt og ein sovepose
+- Ein hest
 
 ### Sosiale band
 
 Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn på eigne.
 
 - Eg stoler ikkje på ___, dei pønsker på noko.
+
+----
+
+# Prest
+
+> ...
+
+### Personlegdom
+
+__Kva driv deg?__
+
+* Æra og ry
+* Pengar og status
+* Historiar og eventyr
+* Gode gjerningar
+* Å sjå folk lida
+
+__Vel to du er og to du føler at du må vera:__
+
+*
+
+### Utstyr og utrustning
+
+Du har med deg 4D6 sylv, proviant (5), ekspedisjonsutstyr (5), ein stokk og eit hellig symbol.
+
+Du har på deg ein fin kjortel.
+
+Vel ein:
+- Proviant (10) og Ekspedisjonsutstyr (10)
+- Eit sverd og eit skjold
+- Ei lykt med olje og lekjande urter (5)
+- Ein hest
+
+### Sosiale band
+
+Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn på eigne.
+
+-
 

@@ -40,3 +40,11 @@ __Under er nokre sanningar om verda.__ For å læra meir om verda må ein __spel
 * __Jakt, fiske og beiteområder er viktige ressursar, men vêret skifter fort og mange trekk sitt siste andedrag i høgfjellet__. Store delar av fjella er uoppdaga, og det finst ikkje gode kart.
 
 * __Folk fortel at dei har sett både vetter, troll og skrømt i fjellet.__ Ein må passa seg for ikkje å bli bergteken.
+
+
+<object data="https://drive.google.com/file/d/1I_-0vg_VR7Je0YYTF9GNDOqEbJYLGAKJ/view?usp=sharing" type="application/pdf" width="700px" height="700px">
+    <embed src="https://drive.google.com/file/d/1I_-0vg_VR7Je0YYTF9GNDOqEbJYLGAKJ/view?usp=sharing">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1I_-0vg_VR7Je0YYTF9GNDOqEbJYLGAKJ/view?usp=sharing">Download PDF</a>.</p>
+    </embed>
+</object>
+
