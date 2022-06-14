@@ -1,3 +1,7 @@
+# Verda
+
+----
+
 # Frankenland
 
 *Temperert, skog og fjell, farleg, nøytralt*
@@ -27,6 +31,8 @@ Ulv som ser ut som den er laga av krystall eller glas. Observert om natta. Lyser
 - Syner vegen til døyande
 - Flykter fort frå denne verda ved fare
 
+----
+
 ### Stad ✧ Tjukkrøykgrotta
 
 *Dødeleg, fientleg*
@@ -55,6 +61,7 @@ Stor bjørn dekt i svartblå ravnefjør, med to store vinger. Drepen.
 - Samlar på alt som blenkjer
 - Verner ungane sine
 
+----
 
 # Nord
 
