@@ -6,16 +6,15 @@
 
 *Temperert, skog og fjell, farleg, nøytralt*
 
-## Detaljar
+### Detaljar
 
 - Djupe skogar med store lauvtre
 - Høge fjell med snøkledde toppar
 - Mystiske grotter med rare vesen
 - Folk med ein rar forkjærleik for snurrebartar
 
-## Oppdagingar
 
-### Stad ✧ Lauvskogen
+## Stad ✧ Lauvskogen
 
 *Farleg, nøytral*
 
@@ -33,7 +32,7 @@ Ulv som ser ut som den er laga av krystall eller glas. Observert om natta. Lyser
 
 ----
 
-### Stad ✧ Tjukkrøykgrotta
+## Stad ✧ Tjukkrøykgrotta
 
 *Dødeleg, fientleg*
 
