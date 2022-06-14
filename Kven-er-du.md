@@ -5,6 +5,8 @@ Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei 
 
 - **Finn bakgrunnen din i tabellen under, og følg linken for å ta nokre val om kven du er og kva du har med deg.**
 
+- **Skriv opp kva det du har med deg veg, du [finn lister her](Utstyr-og-vapen.md).
+
 - **Trill fram eit namn med namnegeneratoren, eller finn på eit sjølv.**
 
 - **Fyll inn evnepoeng, bæreevne og livspoeng slik det står på [karakterarket](https://drive.google.com/file/d/1I_-0vg_VR7Je0YYTF9GNDOqEbJYLGAKJ/view?usp=sharing).**
