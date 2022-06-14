@@ -1,6 +1,6 @@
 - [Heim](/)
 - [Kven er du?](Kven-er-du.md)
 - [Utstyr og våpen](Utstyr-og-våpen.md)
-- [Verda](Verda.html)
+- [Verda](Verda.md)
 - [Dungeon World](Dungeon-World.md)
 - [Discord](Discord.md)
