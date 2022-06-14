@@ -1,5 +1,5 @@
 # Kven er du?
-[Link til karakterark](www.LinktilDrive.com)
+[Link til karakterark](https://drive.google.com/file/d/1I_-0vg_VR7Je0YYTF9GNDOqEbJYLGAKJ/view?usp=sharing)
 
 Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei i den rekkefølgja du vil.
 
@@ -7,7 +7,7 @@ Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei 
 
 - **Trill fram eit namn med namnegeneratoren, eller finn på eit sjølv.**
 
-- **Fyll inn evnepoeng, bæreevne og livspoeng slik det står på [karakterarket](www.LinktilDrive.com).**
+- **Fyll inn evnepoeng, bæreevne og livspoeng slik det står på [karakterarket](https://drive.google.com/file/d/1I_-0vg_VR7Je0YYTF9GNDOqEbJYLGAKJ/view?usp=sharing).**
 
 
 
