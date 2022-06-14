@@ -1,6 +1,6 @@
-@font-face { font-family: 'GrossNet'; src:url('../fonts/GrossNet.ttf.woff') format('woff'), url('../fonts/GrossNet.ttf.svg#GrossNet') format('svg'), url('../fonts/GrossNet.ttf.eot'), url('../fonts/GrossNet.ttf.eot?#iefix') format('embedded-opentype'); font-weight: normal; font-style: normal; }
-
-.app-name-link { font-family: 'GrossNet'; font-size: 26px;}
+<style>
+  @import url("https://use.typekit.net/hao7pai.css");
+</style>
 
 body { font-family: "Anonymous Pro"; font-style: normal; font-variant: normal; }
 
