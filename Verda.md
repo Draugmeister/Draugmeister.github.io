@@ -20,7 +20,7 @@
 
 Stor lauvskog som dekker eit stort område ved foten av fjella.
 
-### Monster ☠ Krystallulv
+### Monster - Krystallulv
 *Einsam, storleik med eit menneskje*
 
 Ulv som ser ut som den er laga av krystall eller glas. Observert om natta. Lyser svakt.
@@ -38,7 +38,7 @@ Tjukk røyk siv ut av grotteopningen, eit menneskjelik like innanfor. Leveande r
 
 Inngangen til ei gamal krypt.
 
-### Møte ☠ Røysopp
+### Møte - Røysopp
 
 *Gruppa, små*
 
@@ -48,7 +48,7 @@ Levande røyksoppar, med små armar og bein. Det siv tjukk røyk ut av dei til e
 - Springa å gøyma seg
 - Oppsøker mørke stader
 
-### Monster ☠ Ravnebjørn
+### Monster - Ravnebjørn
 
 *Einsam, stor, sterk, fykande, samlar*
 
