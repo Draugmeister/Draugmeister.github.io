@@ -1,4 +1,4 @@
-![Munthe](Bilete/sidebar.png)
+![Munthe](Bilete/Sidebar.png)
 
 - [Heim](/)
 - [Kven er du?](Kven-er-du.md)
