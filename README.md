@@ -1,5 +1,3 @@
-# 𝖉𝖎𝖒𝖒𝖆 𝔷 𝖉𝖗𝖆𝖚𝖌𝖗
-
 ![Munthe](Bilete/test_index.png)
 
 > De lev i det kalde nord, langt frå maktsentra sør i Europa. Kristendommen sprer om seg, men mange held endå dei gamle gudane ved hevd.
