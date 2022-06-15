@@ -1,15 +1,17 @@
 # Kven er du?
-[Link til karakterark](https://drive.google.com/file/d/1I_-0vg_VR7Je0YYTF9GNDOqEbJYLGAKJ/view?usp=sharing)
+[Link til nedlasting av karakterhefte og innleggsark.](https://drive.google.com/file/d/1I_-0vg_VR7Je0YYTF9GNDOqEbJYLGAKJ/view?usp=sharing)
 
 Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei i den rekkefølgja du vil.
 
-- **Finn bakgrunnen din i tabellen under, og følg linken for å ta nokre val om kven du er og kva du har med deg.**
+- **Finn bakgrunnen din i tabellen under, og finn tilhøyrande innleggsark.**
 
-- **Skriv opp vekta til det du har med deg, ut frå [lista over utstyr og våpen](Utstyr-og-våpen.md).**
+- **Følg linken i bakgrunnstabellen, for å ta nokre val om kven du er og kva du har med deg.**
 
 - **Trill fram eit namn med namnegeneratoren, eller finn på eit sjølv.**
 
-- **Fyll inn evnepoeng, bæreevne og livspoeng slik det står på [karakterarket](https://drive.google.com/file/d/1I_-0vg_VR7Je0YYTF9GNDOqEbJYLGAKJ/view?usp=sharing).**
+- **Trill fram ein driv i tabellen for driv, eller finn på ein driv sjølv.**
+
+- **Fyll inn evnepoeng, bæreevne og livspoeng slik det står i karakterheftet.**
 
 
 
