@@ -1,7 +1,7 @@
 - [Heim](/)
 - [Kven er du?](Kven-er-du.md)
-- [Karakterhefte og innlegg](Karakterhefte-og-innlegg.md)  
 - [Utstyr og våpen](Utstyr-og-våpen.md)  
+- [Karakterhefte og innlegg](Karakterhefte-og-innlegg.md)    
 - [Verda](Verda.md)  
 - [Dungeon World](Dungeon-World.md)
 - [Discord](https://discord.gg/z5FZVrSgyS)
