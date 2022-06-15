@@ -1,13 +1,9 @@
 # Karakterark og innlegg
 
-### Karakterhefte
-
-Me bruker eit karakterhefte inspirert av *playbooks* i Dungeon World.   
+Me bruker eit **karakterhefte** inspirert av *playbooks* i Dungeon World.   
 Karakterheftet er eit a4-ark som er bretta på midten slik at det vert eit hefte med 4 sider i a5.  
 
-### Innleggsark
-
-I tillegg til karakterheftet bruker me innleggsark.  
+I tillegg til karakterheftet bruker me **innleggsark**.  
 Innleggsarkene er lause a5-ark, som du legg inni karakterheftet ditt.  
 Me bruker innleggsark for:  
  - Bakgrunn
