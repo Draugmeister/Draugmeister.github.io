@@ -3,4 +3,4 @@
 - [Utstyr og våpen](Utstyr-og-våpen.md)
 - [Verda](Verda.md)
 - [Dungeon World](Dungeon-World.md)
-- [Discord](Discord.md)
+- [Discord](https://discord.gg/z5FZVrSgyS)
