@@ -21,11 +21,12 @@
 Stor lauvskog som dekker eit stort område ved foten av fjella.
 
 ### Monster - Krystallulv
+
 *Einsam, storleik med eit menneskje*
 
 Ulv som ser ut som den er laga av krystall eller glas. Observert om natta. Lyser svakt.
 
-**Instinkt**
+**Instinkt**  
 - Nyfiken, oppsøkjer menneskje
 - Syner vegen til døyande
 - Flykter fort frå denne verda ved fare
@@ -46,7 +47,7 @@ Inngangen til ei gamal krypt.
 
 Levande røyksoppar, med små armar og bein. Det siv tjukk røyk ut av dei til ei kvar tid, men meir når dei er i rørsle. Får fort panikk.
 
-*Innstinkt*
+**Innstinkt**  
 - Springa å gøyma seg
 - Oppsøker mørke stader
 
@@ -56,7 +57,7 @@ Levande røyksoppar, med små armar og bein. Det siv tjukk røyk ut av dei til e
 
 Stor bjørn dekt i svartblå ravnefjør, med to store vinger. Drepen.
 
-**Innstinkt**
+**Innstinkt**  
 - Samlar på alt som blenkjer
 - Verner ungane sine
 
