@@ -1,4 +1,4 @@
-# Dimma og Draugr
+# 𝖉𝖎𝖒𝖒𝖆 𝔷 𝖉𝖗𝖆𝖚𝖌𝖗
 
 ![Munthe](Bilete/test_index.png)
 
