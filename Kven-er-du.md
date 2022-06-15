@@ -61,11 +61,11 @@ Om du er usikker på kva kjønn du er kan du trilla ein terning, oddetal er mann
 
 --------
 
-### Bakgrunnar
+# Bakgrunnar
 
 --------
 
-# Skald
+## Skald
 
 > Du er ein skald. Kanskje du har dikta for ein høvding, skrive heroiske kvad om gamle gudar eller reist rundt som omreisande trubadur? 
 
@@ -111,7 +111,7 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 
 ---------
 
-# Soldat
+## Soldat
 
 > Du er ein veltrent soldat, kven eller kva kjempar du for no?
 
@@ -159,7 +159,7 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 
 ----
 
-# Handverkar
+## Handverkar
 
 > Du gjekk i læra frå tidleg alder og vart god i det du gjorde. Kanskje du arbeidde på ein kaupang, var den beste smeden i mils omkrins eller arbeidde for ein høvding?
 
@@ -203,7 +203,7 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 
 ----
 
-# Heimføding
+## Heimføding
 
 > Du har aldri før reist frå bygda du vaks opp i. Det har vore trange kår, og du har måtta ta vare på dyra og garden for at du og familien skulle overleva. 
 
@@ -251,7 +251,7 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 
 ----
 
-# Frihals
+## Frihals
 
 > Du var ein ufri trell, eigd av eit anna menneskje, men du vart fri. Kanskje eigaren din forbarma seg over deg, kanskje du kjøpte deg fri eller kanskje du rømde ei mørk og klad vinternatt?
 
@@ -287,7 +287,7 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 
 ----
 
-# Handelsreisande
+## Handelsreisande
 
 > ...
 
@@ -333,7 +333,7 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 
 ----
 
-# Prest
+## Prest
 
 > ...
 
