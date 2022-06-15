@@ -4,8 +4,8 @@ Me bruker Dungeon World som grunnleggande system, med nokre endringar.
 
 Dei største endringane frå Dungeon World:
 - __Ingen klassar__. Bakgrunnen din bestemmer berre kva du byrjer med.
- - _Skaden din kjem frå våpenet ditt_, ikkje klassen din (det er jo ingen klassar).
- - _Ingen moves som er avgrensa til klassar_. Me finn eller lager moves som høver narrativet.
+  - _Skaden din kjem frå våpenet ditt_, ikkje klassen din (det er jo ingen klassar).
+  - _Ingen moves som er avgrensa til klassar_. Me finn eller lager moves som høver narrativet.
 - __Berre modifiers på stats__. I staden for å ha til dømes 12 STR (+1) har du berre +1 STR.
 - __Perilous Wilds__(eit suplement til DW) sine reglar for ekspedisjonar, slå leir og å rekrutera følgjarar (er implmentert i lista med moves).
 
