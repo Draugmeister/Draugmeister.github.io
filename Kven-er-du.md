@@ -1,6 +1,8 @@
 # Kven er du?
 [Link til nedlasting av karakterhefte og innleggsark.](https://drive.google.com/file/d/1I_-0vg_VR7Je0YYTF9GNDOqEbJYLGAKJ/view?usp=sharing)
 
+## Steg for steg
+
 **Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei i den rekkefølgja du vil.**
 
 - Finn bakgrunnen din i tabellen under, og finn tilhøyrande innleggsark.
