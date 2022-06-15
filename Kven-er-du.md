@@ -15,7 +15,7 @@
 
 
 
-### Kva er bakgrunnen din?
+## Kva er bakgrunnen din?
 
 * Trill 2d6 på tabellen under for å finna kva bakgrunnen din er.
 
@@ -58,6 +58,9 @@ Om du er usikker på kva kjønn du er kan du trilla ein terning, oddetal er mann
 | 18.  | Ylva     | Tor     | \-son/dotter (trill på fornamn) |
 | 19.  | Åshed    | Vendel  | \-son/dotter (trill på fornamn) |
 | 20.  | Ødgun    | Ulvar   | \-son/dotter (trill på fornamn) |
+
+
+## Kva driv deg?
 
 --------
 
