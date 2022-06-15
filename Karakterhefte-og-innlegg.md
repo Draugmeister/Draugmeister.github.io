@@ -4,7 +4,7 @@
 >
 > I tillegg til karakterheftet bruker me **innleggsark**. Innleggsarkene er lause a5-ark, som du legg inni karakterheftet ditt.  
 > 
-> Me bruker innleggsark for:  
+> Me bruker innleggsark til:  
 >  - Bakgrunn
 >  - Følgjarar og ridedyr
 >  - Magiske gjenstandar
