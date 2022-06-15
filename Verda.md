@@ -32,7 +32,7 @@ Ulv som ser ut som den er laga av krystall eller glas. Observert om natta. Lyser
 
 ----
 
-## Stad ✧ Tjukkrøykgrotta
+## ↳ Stad ✧ Tjukkrøykgrotta
 
 *Dødeleg, fientleg*
 
