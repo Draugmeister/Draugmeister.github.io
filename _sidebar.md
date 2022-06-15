@@ -1,5 +1,3 @@
-![Munthe](Bilete/Sidebar.png)
-
 - [Heim](/)
 - [Kven er du?](Kven-er-du.md)
 - [Utstyr og våpen](Utstyr-og-våpen.md)
