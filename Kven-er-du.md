@@ -19,7 +19,7 @@
 
 ## Kva er bakgrunnen din?
 
-* Trill 2d6 på tabellen under for å finna kva bakgrunnen din er.
+Trill 2d6 for å finna kva bakgrunnen din er.
 
 | 2D6 | Bakgrunn | Sjangs |
 | ---- | --------------- |----|
@@ -64,12 +64,14 @@ Om du er usikker på kva kjønn du er kan du trilla ein terning, oddetal er mann
 
 ## Kva driv deg?
 
+Trill ein D20 for å finna ut kva som driv deg.
+
 | D20 | Driv                                                             |
 | --- | ---------------------------------------------------------------- |
 | 1.  | Å straffa heidningar for å oppnå noko for deg sjølv              |
-| 2.  | Å finn gode sider i folk som ikkje er som deg                    |
+| 2.  | Å finna gode sider i folk som ikkje er som deg                    |
 | 3.  | Å oppfordra andre til å gjera noko betydeleg eller avgjerande    |
-| 4.  | Å få overtak over eller innflytelse over nokon                   |
+| 4.  | Å få eit overtak eller innflytelse over nokon andre                  |
 | 5.  | Å få tak i noko gamal, noko tapt eller noko magisk               |
 | 6.  | Å skapa, gjenoppretta eller verna noko av varig verdi            |
 | 7.  | Å oppleva noko vakkert eller sublimt                             |
@@ -78,10 +80,10 @@ Om du er usikker på kva kjønn du er kan du trilla ein terning, oddetal er mann
 | 10. | Å velgja æra framfor eigen vinning                               |
 | 11. | Å avsløra korrupsjon                                             |
 | 12. | Å bryta ein lov for å hjelpa nokon                               |
-| 13. | Å setta det sjølv i fare for å hjelpa dei som er svakare enn deg |
+| 13. | Å setta deg sjølv i fare for å hjelpa dei som er svakare enn deg |
 | 14. | Å visa at du er sterkare eller mektigar enn nokon med makt       |
 | 15. | Å gje slepp på noko for å gjera det rette                        |
-| 16. | Å fornærma ein nokon med ditt barbariske levesett                |
+| 16. | Å fornærma nokon med ditt barbariske levesett                |
 | 17. | Å skapa trøbbel ved å ta på, opna eller fikla med noko           |
 | 18. | Å ofra noko for å følgja religionen din                          |
 | 19. | Å unngå ein konflikt eller å deeskalera ein amper situasjon      |
