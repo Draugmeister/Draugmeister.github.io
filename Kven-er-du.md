@@ -147,14 +147,6 @@ Kva tykkjer du om dei du legg ut på eventyr med? Bruk banda under, eller finn p
 
 ### Personlegdom
 
-__Kva driv deg?__
-
-* Æra og ry
-* Pengar og status
-* Historiar og eventyr
-* Gode gjerningar
-* Å sjå folk lida
-
 __Vel to du har måtta vera som soldat og to som du eigentleg er:__
 
 * Roleg
