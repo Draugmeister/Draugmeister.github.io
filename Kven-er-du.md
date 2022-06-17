@@ -101,14 +101,6 @@ Trill ein D20 for å finna ut kva som driv deg.
 
 ### Personlegdom
 
-__Kva driv deg?__
-
-* Æra og ry
-* Pengar og status
-* Historiar og eventyr
-* Gode gjerningar
-* Å sjå folk lida
-
 __Vel to du er og to folk trur du er:__
 
 * Romantisk
@@ -123,10 +115,20 @@ __Vel to du er og to folk trur du er:__
 
 ### Utstyr og utrustning
 
+>Tingene du har med deg er viktige for deg. Det er ikkje berre *ein kniv* eller *ein hest*. Det er *din kniv* og *din hest*. Tenk på korleis tinga dine ser ut, og kva dei betyr for deg. Gje hesten din eit namn – og kanskje kniven din og?
+
 Du har med deg 3D6 sylv, proviant (5 bruk), ein sax og ein liten suvenir frå reisene dine.
 
-Du kan velja om du vil ha med deg:
-- Eit valfritt instrument eller skrivesaker.
+Du har med deg eit valfritt instrument eller skrivesaker. Vel to som skildrar korleis det eller dei ser ut:
+- Godt brukt
+- Utsmykka eller forgylt
+- Enkelt og stilreint
+- Gravert med eit hellig namn
+- Ei gåva frå nokon som stod deg nær
+- Stjelt frå nokon med makt
+- Kjøpt etter å ha spart over lang tid
+- Bytta mot noko verdifult som du skulle ynskja du kunne få tilbake
+
 
 I tillegg kan du velja to av desse: 
 - Vams, ein boge og ein bunt piler, fine klede, ekspedisjonsutstyr (5 bruk), proviant (5 bruk) eller eit esel.
@@ -161,10 +163,22 @@ __Vel to du har måtta vera som soldat og to som du eigentleg er:__
 
 ### Utstyr og utrustning
 
+>Tingene du har med deg er viktige for deg. Det er ikkje berre *ein kniv* eller *ein hest*. Det er *din kniv* og *din hest*. Tenk på korleis tinga dine ser ut, og kva dei betyr for deg. Gje hesten din eit namn – og kanskje kniven din og?
+
 Du har med deg 2D6 sylv, proviant (5 bruk), ekspedisjonsutsyr (5 bruk) og noko du har teke frå ein fiende du drap i kamp.
 
 Av våpen har du typisk utrustning for ein soldat:
 - Eit sverd, ei krigsøks, eit kortspyd og ein sax.
+
+Sverdet ditt er viktig for deg, og eit statussymbol. Vel to som skildrar det:
+- Skarpt og glinsande
+- Godt brukt, men trufast
+- Gravert med eit hellig symbol
+- Ei gåva frå eit stolt familiemedlem
+- Du påstår det er velsigna av ein gud
+- Du har gjort ting med det som du skulle ynskja kunne vera ugjort
+- Bytta til deg mot noko du skulle ynskja du kunne få tilbake
+- Har vore med deg i mange kampar
 
 I tillegg kan du velja ein av desse: 
 - Ekspedisjonsutstyr (5 bruk) og proviant (5 bruk)
@@ -200,6 +214,8 @@ __Vel to du er og to du føler at du må vera:__
 * Sosial
 
 ### Utstyr og utrustning
+
+>Tingene du har med deg er viktige for deg. Det er ikkje berre *ein kniv* eller *ein hest*. Det er *din kniv* og *din hest*. Tenk på korleis tinga dine ser ut, og kva dei betyr for deg. Gje hesten din eit namn – og kanskje kniven din og?
 
 Du har med deg 1D6 sylv, proviant (5 bruk), ekspedisjonsutsyr (5 bruk), ein kniv, eit reidskap som du treng til handverket ditt og noko du har fått av læremeisteren din.
 
@@ -237,6 +253,8 @@ __Vel to du prøver å vera og to du skulle ynskja du slapp å vera:__
 
 ### Utstyr og utrustning
 
+>Tingene du har med deg er viktige for deg. Det er ikkje berre *ein kniv* eller *ein hest*. Det er *din kniv* og *din hest*. Tenk på korleis tinga dine ser ut, og kva dei betyr for deg. Gje hesten din eit namn – og kanskje kniven din og?
+
 Du har med deg 1D6 sylv, proviant (5), ekspedisjonsutstyr (5), ein kniv og eit arvestykke som har vore i familien i generasjonar.
 
 Du kan og velja ein av desse:
@@ -268,6 +286,8 @@ __Vel to du er og to du føler at du må vera:__
 *
 
 ### Utstyr og utrustning
+
+>Tingene du har med deg er viktige for deg. Det er ikkje berre *ein kniv* eller *ein hest*. Det er *din kniv* og *din hest*. Tenk på korleis tinga dine ser ut, og kva dei betyr for deg. Gje hesten din eit namn – og kanskje kniven din og?
 
 Du har med deg 1D4 sylv, proviant (5), ein kniv og noko som tilhøyrde han som eigde deg.
 
@@ -305,6 +325,8 @@ __Vel to du er og to du føler at du må vera:__
 
 ### Utstyr og utrustning
 
+>Tingene du har med deg er viktige for deg. Det er ikkje berre *ein kniv* eller *ein hest*. Det er *din kniv* og *din hest*. Tenk på korleis tinga dine ser ut, og kva dei betyr for deg. Gje hesten din eit namn – og kanskje kniven din og?
+
 Du har med deg 3D6 sylv, proviant (5), ekspedisjonsutstyr (5), ein fin kniv, ein sax og noko verdifult du har bytta til deg
 
 Du har på deg fine klede.
@@ -334,6 +356,8 @@ __Vel to du er og to du føler at du må vera:__
 *
 
 ### Utstyr og utrustning
+
+>Tingene du har med deg er viktige for deg. Det er ikkje berre *ein kniv* eller *ein hest*. Det er *din kniv* og *din hest*. Tenk på korleis tinga dine ser ut, og kva dei betyr for deg. Gje hesten din eit namn – og kanskje kniven din og?
 
 Du har med deg 4D6 sylv, proviant (5), ekspedisjonsutstyr (5), ein stokk og eit hellig symbol.
 
