@@ -5,16 +5,12 @@
 
 **Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei i den rekkefølgja du vil.**
 
-- Finn bakgrunnen din i tabellen under, og finn tilhøyrande innleggsark.
-
-- Følg linken i bakgrunnstabellen, for å ta nokre val om kven du er og kva du har med deg.
-
-- Trill fram eit namn med namnegeneratoren, eller finn på eit sjølv.
-
-- Trill fram ein driv i tabellen for driv, eller finn på ein driv sjølv.
-
-- Fyll inn evnepoeng, bæreevne og livspoeng slik det står i karakterheftet.
-
+1. **Finn fram eit karakterark.** Last ned karakterarket frå linken over eller få eit frå Ådne.
+2. **Trill fram eit namn med namnegeneratoren, eller finn på eit sjølv.** Det må passa inn i noko som minner om Vikingtida i Noreg.
+3. **Trill fram ein driv i tabellen under, eller finn på ein driv sjølv.** Om du finn på eit driv sjølv er det viktig at det ikkje er for generellt.
+4. **Finn bakgrunnen din** i tabellen under.
+5. **Ta nokre val om kven du er og kva du har med deg.** Følg linken i bakgrunnstabellen, og følg instruksjonane der. Noter ned kva du har med deg
+6. **Fyll inn evnepoeng, bæreevne og livspoeng slik det står i karakterheftet.**
 
 
 ## Kva er bakgrunnen din?
