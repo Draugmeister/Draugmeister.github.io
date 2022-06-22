@@ -1,5 +1,5 @@
 # Kven er du?
-[Link til nedlasting av karakterhefte og innleggsark.](https://drive.google.com/file/d/1I_-0vg_VR7Je0YYTF9GNDOqEbJYLGAKJ/view?usp=sharing)
+[Her kan du lasta ned karakterhefte og innleggsark.](https://drive.google.com/file/d/1I_-0vg_VR7Je0YYTF9GNDOqEbJYLGAKJ/view?usp=sharing)
 
 ## Steg for steg
 
