@@ -6,12 +6,21 @@
 **Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei i den rekkefølgja du vil.**
 
 1. **Finn fram eit karakterark.**  
-   Last ned karakterarket frå linken over eller få eit frå Ådne.
-3. **Trill fram eit namn med namnegeneratoren, eller finn på eit sjølv.** Det må passa inn i noko som minner om vikingtid eller tidleg mellomalder i Noreg.
-4. **Trill fram ein driv i tabellen under, eller finn på ein driv sjølv.** Om du finn på eit driv sjølv er det viktig at det ikkje er for generellt.
-5. **Finn bakgrunnen din** i tabellen under. Dette er kva du har gjort fram til no, men det definerer ikkje kva du gjer vidare. Ein gamal trell kan læra seg å både lesa og konversera og ein prest kan verta ein meister med både sverd og båge.
-6. **Ta nokre val om kven du er og kva du har med deg.** Følg linken i bakgrunnstabellen, og følg instruksjonane der. Noter ned kva du har med deg
-7. **Fyll inn evnepoeng, bæreevne og livspoeng slik det står i karakterheftet.**
+   Last ned karakterarket frå linken over eller få eit frå Ådne.  
+   
+3. **Trill fram eit namn med namnegeneratoren, eller finn på eit sjølv.**  
+   Det må passa inn i noko som minner om vikingtid eller tidleg mellomalder i Noreg.  
+   
+5. **Trill fram ein driv i tabellen under, eller finn på ein driv sjølv.**  
+   Om du finn på eit driv sjølv er det viktig at det ikkje er for generellt.  
+   
+7. **Finn bakgrunnen din.**  
+   Trill på tabellen under. Dette er kva du har gjort fram til no, men det definerer ikkje kva du gjer vidare. Ein gamal trell kan læra seg å både lesa og konversera og ein prest kan verta ein meister med både sverd og båge.  
+   
+9. **Ta nokre val om kven du er og kva du har med deg.**  
+   Følg linken i bakgrunnstabellen, og følg instruksjonane der. Noter ned kva du har med deg  
+   
+11. **Fyll inn evnepoeng, bæreevne og livspoeng slik det står i karakterheftet.**
 
 
 ## Kva er bakgrunnen din?
