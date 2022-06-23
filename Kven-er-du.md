@@ -5,8 +5,8 @@
 
 **Gjenomfør stega under for å finna ut kven karakteren din er. Du kan gjera dei i den rekkefølgja du vil.**
 
-1. **Finn fram eit karakterark.**  
-   Last ned karakterarket frå linken over eller få eit frå Ådne.  
+1. **Lag eit karakterark.**  
+   Lag eit karakterark frå eit av arka du får av Ådne. Det treng ikkje vera fint eller fjongt. 
    
 3. **Trill fram eit namn med namnegeneratoren, eller finn på eit sjølv.**  
    Det må passa inn i noko som minner om vikingtid eller tidleg mellomalder i Noreg.  
@@ -18,9 +18,12 @@
    Trill på tabellen under. Dette er kva du har gjort fram til no, men det definerer ikkje kva du gjer vidare. Ein gamal trell kan læra seg å både lesa og konversera og ein prest kan verta ein meister med både sverd og båge.  
    
 9. **Ta nokre val om kven du er og kva du har med deg.**  
-   Følg linken i bakgrunnstabellen, og følg instruksjonane der. Noter ned kva du har med deg  
+   Følg linken i bakgrunnstabellen, og følg instruksjonane der. Noter ned kva du har med deg. I menyen til venstre finn du oversikt over kor mykje dei ulike eignelutane dine veg.
    
-11. **Fyll inn evnepoeng, bæreevne og livspoeng slik det står i karakterheftet.**
+11. **Fyll inn evnepoeng, bæreevne og livspoeng.**  
+   Liv: 10+2xCON - Bæreevne: 10+2xSTR
+   Fordel evnepoeng: +2, +1, +1, 0, 0, -1
+   
 
 
 ## Kva er bakgrunnen din?
