@@ -6,16 +6,16 @@ Det er to hovudkategoriar. Spel som er basert på __Dungeon World__ og spel som 
 
 ## Basert på Dungeon World
 
-### Vikingar
+- Vikingar
 
-### Post klimapokalypse
+- Post klimapokalypse
 
 ## Basert på Into the Odd
 
-### Lilliputian
+- Lilliputian
 
-### Mausritter
+- Mausritter
 
-### Vikingar
+- Vikingar
 
-### Post-klimapokalypse
+- Post-klimapokalypse
