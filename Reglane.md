@@ -1,0 +1,73 @@
+# What Do You Need to Know?
+
+## Saves
+
+A Save is a roll to avoid danger from a risky action or situation. 
+Roll d20. If you roll equal or under the appropriate Ability Score you pass. 1 is always a success and 20 always a failure.
+
+## Die of Fate
+
+If something is uncertain in the fiction, the GM may ask you to roll a D6 to get answers.
+
+__4-6__ It's something nice, helpfull or advantageus.
+__2-3__ It's something potentially bad.
+__1__   It's not good at all.
+
+## Fighting
+
+If you get in a fight, the fiction decides who attacks when. If you want to suckerpunch someone, and they have no way to see it comming, just roll your damage. When it is unclear which combat side should act first, the character at the head of the group must pass a dex save to secure the first action.
+
+If something happens in the fiction that you want to react to, just say what you want to do. If it's dangerous or difficult, you might need to roll a save to see if you manage to do it. You don't have to wait for your turn, but try to let everyone get their time in the spotlight.
+
+### Actions
+
+Everytime you act during a heated scene, you can move and perform an action. An action can be anything from negotiating, to attacking, to fleeing. Attacks are detailed below. For other actions the Referee calls for the character at risk to roll a Save. For example, an attempt to trip an opponent might force them to pass a STR Save to stay on their feet, while an attempt to trick an opponent into surrender may force them to pass a WIL Save or lower their arms. 
+
+### Attacks
+
+An attacker rolls their weapons damage die, and subtracts the opponent's Armour score. Their attack causes this much Damage. 
+Ranged weapons cannot be used in melee.
+
+Impaired attacks: d4
+Enhanced attacks: d12
+
+### Damage
+
+When an individual takes Damage they lose that many hp. 
+If they have no hp left, they are wounded, and any remaining Damage is removed from their STR score. 
+They must then pass a STR Save to avoid Critical Damage. 
+
+Damage from falling rocks, explosions and other sources outside of normal combat ranges between d4 and d12, with d20 used only in special cases. 
+Consider how it would affect an average person. 
+A fall that is quite likely to injure an inexperienced character might cause d8 Damage but a huge rock that would crush most might do d12. 
+Poison usually causes Ability Score loss. 
+Effects like Blindness will Impair attacks and call for Saves to carry out usually simple actions. 
+
+### Critical Damage
+
+A character that takes Critical Damage is unable to take further action until they are tended to by an ally and have a Short Rest. If they are left for an hour without being tended to, they die. 
+
+### Ability Score Loss
+
+If a character has their STR score reduced to zero they are dead. If their DEX or WIL are reduced to zero the character is paralysed or mentally broken respectively, and cannot act until they have a Full Rest. 
+
+### Death 
+
+When a character dies the Player creates a new character and the Referee finds a way to have them join the group as soon as possible. Here, quickness is required over realism. Alternatively the Player may control a Hireling or Member of their Company.
+
+## Healing 
+
+### Short Rest
+
+A few minutes of rest and a swig of water recovers all of a character’s lost hp. Resting may waste time or attract danger. 
+
+### Full Rest
+
+A Full Rest requires a week of downtime at a comfortable location. This restores all Ability Scores.
+
+### Deprived
+
+Somebody deprived of a crucial need (e.g. food, water, or warmth) cannot benefit from Rests.
+
+
+
