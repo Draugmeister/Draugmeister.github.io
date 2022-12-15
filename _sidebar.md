@@ -1,5 +1,5 @@
 - [Heim](/)
 - [Kven er du?](Kven-er-du.md)
-- [Utstyr og våpen](Utstyr-og-våpen.md)     
-- [Dungeon World](Dungeon-World.md)
-- [Discord](https://discord.gg/z5FZVrSgyS)
+- [Markedet](Markedet.md)     
+- [Reglane](Reglane.md)
+- [Lenkjer](Lenkjer.md)
