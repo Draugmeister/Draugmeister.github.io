@@ -1,6 +1,6 @@
 # What Do You Need to Know?
 
-## Saves
+# Saves
 
 A Save is a roll to avoid danger from a risky action or situation. 
 Roll d20. If you roll equal or under the appropriate Ability Score you pass. 1 is always a success and 20 always a failure.
@@ -13,15 +13,15 @@ __4-6__ It's something nice, helpfull or advantageus.
 __2-3__ It's something potentially bad.
 __1__   It's not good at all.
 
-## Fighting
+# Fighting and Damage
+
+### Actions
 
 If you get in a fight, the fiction decides who attacks when. If you want to suckerpunch someone, and they have no way to see it comming, just roll your damage. When it is unclear which combat side should act first, the character at the head of the group must pass a dex save to secure the first action.
 
 If something happens in the fiction that you want to react to, just say what you want to do. If it's dangerous or difficult, you might need to roll a save to see if you manage to do it. You don't have to wait for your turn, but try to let everyone get their time in the spotlight.
 
-### Actions
-
-Everytime you act during a heated scene, you can move and perform an action. An action can be anything from negotiating, to attacking, to fleeing. Attacks are detailed below. For other actions the Referee calls for the character at risk to roll a Save. For example, an attempt to trip an opponent might force them to pass a STR Save to stay on their feet, while an attempt to trick an opponent into surrender may force them to pass a WIL Save or lower their arms. 
+For example, an attempt to trip an opponent might force them to pass a STR Save to stay on their feet, while an attempt to trick an opponent into surrender may force them to pass a WIL Save or lower their arms. 
 
 ### Attacks
 
@@ -54,6 +54,14 @@ If a character has their STR score reduced to zero they are dead. If their DEX o
 ### Death 
 
 When a character dies the Player creates a new character and the Referee finds a way to have them join the group as soon as possible. Here, quickness is required over realism. Alternatively the Player may control a Hireling or Member of their Company.
+
+## Scars
+
+Tabell
+
+## Fear
+
+Tabell
 
 ## Healing 
 
