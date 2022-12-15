@@ -1,2 +1,2 @@
-![Header](Bilete/Header.png)
+![Header](Bilete/Header.jpg)
 
