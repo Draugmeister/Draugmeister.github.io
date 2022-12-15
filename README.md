@@ -2,18 +2,8 @@
 
 Me speler **Cairn** med nokre små endringar.
 
----
 
-**Cairn** was written with the following design philosophies in mind:
-
-### Neutrality  
-The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
-
-### Classless  
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences defines their specialty.
-
-### Death
-Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
+## Design philosophies
 
 ### Fiction First  
 Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.
@@ -21,15 +11,49 @@ Dice do not always reflect an obstacle's difficulty or its outcome. Instead, suc
 ### Growth  
 Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
 
+### Death
+Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
+
 ### Player Choice  
 Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
-
-### Principles  
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
 
 ### Shared Objectives
 Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
 
+### Principles  
+The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+
+## Principles for Players
+### Agency
+- Attributes and related saves do not define your character. They are tools.
+- Don't ask only what your character would do, ask what you would do, too.
+- Be creative with your intuition, items, and connections.
+
+### Teamwork
+- Seek consensus from the other players before barreling forward.
+- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
+
+### Exploration
+- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
+- Take the Warden's description without suspicion, but don't shy away from seeking more information.
+- There is no single correct way forward.
+
+### Talking
+- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
+- You'll find that most people are interesting and will want to talk things through before getting violent.
+
+### Caution
+- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
+- Try to stack the odds in your favor and retreat when things seem unfavorable.
+
+### Planning
+- Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
+- Do some research and ask around about your objectives.
+
+### Ambition
+- Set goals and use your meager means to take steps forward.
+- Expect nothing. Earn your reputation.
+- Keep things moving forward and play to see what happens.
 
 ## Principles for Wardens
 ### Information
@@ -77,36 +101,3 @@ Players trust one another to engage with the shared setting, character goals, an
 - Occasionally you will want an element of randomness (e.g. the weather, unique character knowledge, etc.).
 - In these situations, roll 1d6. A roll of 4 or more generally favors the players.
 - A roll of 3 or under tends to mean bad luck for the PCs or their allies.
-
-
-## Principles for Players
-### Agency
-- Attributes and related saves do not define your character. They are tools.
-- Don't ask only what your character would do, ask what you would do, too.
-- Be creative with your intuition, items, and connections.
-
-### Teamwork
-- Seek consensus from the other players before barreling forward.
-- Stay on the same page about goals and limits, respecting each other and accomplishing more as a group than alone.
-
-### Exploration
-- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden's description without suspicion, but don't shy away from seeking more information.
-- There is no single correct way forward.
-
-### Talking
-- Treat NPCs as if they were real people, and rely on your curiosity to safely gain information and solve problems.
-- You'll find that most people are interesting and will want to talk things through before getting violent.
-
-### Caution
-- Fighting is a choice and rarely a wise one; consider whether violence is the best way to achieve your goals.
-- Try to stack the odds in your favor and retreat when things seem unfavorable.
-
-### Planning
-- Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
-- Do some research and ask around about your objectives.
-
-### Ambition
-- Set goals and use your meager means to take steps forward.
-- Expect nothing. Earn your reputation.
-- Keep things moving forward and play to see what happens.
