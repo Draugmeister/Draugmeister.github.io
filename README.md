@@ -1,7 +1,5 @@
 ![Munthe](Bilete/test_index.png)
 
-Me speler **Cairn** med nokre små endringar.
-
 
 ## Design philosophies
 
