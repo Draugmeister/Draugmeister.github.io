@@ -56,7 +56,28 @@ Damage that reduces a target's HP **below** 0 decreases their STR by the remaind
 
 Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
 
-### Scars
+**STRESS**
+When your Lilliputian experiences grave danger or bizarre events, make a WIL Save. On a failure, the character suffers WIL damage. The amount of damage will vary depending on how extreme the circumstances were.  
+• Mild or upsetting events: 1 damage to WIL  
+• Strange and unsettling occurrences that cause one to gasp: d4 damage to WIL  
+• Challenging encounters that inspire fear or pose a real threat: d6 damage to WIL  
+• Monster battles and losing a friend: d8 damage to WIL  
+• Experiences of horror, Leviathans from the deeps: d10 damage to WIL  
+
+**Pivotal Moment**
+When WIL is reduced to 0, characters experience a Pivotal Moment. See the Pivotal Moment table and cross-reference the damage dealt to reduce WIL to 0 and take the consequence.
+
+**Cling to what you hold dear…**
+If a character experiences stress, they can choose
+an item they are carrying and use it as a totem of
+comfort. If you do this for a Long Rest, this item is
+now your Cherished Possession
+
+**Recovering from the Horrors**  
+A Lilliputian can recover d6+1 WIL by holding the Cherished Possession for a Short Rest or restore
+max WIL resting for a Full Rest on land. WIL cannot be restored without a Cherished Possession. If lost, a new item can become a Cherished Possession after d3+1 Long Rests.
+
+## SCARS
 When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
 
 |      |                                                              |
@@ -74,3 +95,16 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 | 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
 | 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 
+## STRESS OUTCOMES
+| Damage to WIL | Pivotal Moment                                                                                    |
+| ------------- | ------------------------------------------------------------------------------------------------- |
+| 1             | You keep it together and get Advantage on all Saves for the next d6 turns.                        |
+| 2             | You cannot keep focus. You suffer Disadvantage on all Saves for the next d6 turns.                |
+| 3             | You run away to reflect on what you saw, leaving everything behind. You need d6 turns to recover. |
+| 4             | You see things that are not there for d4 hours and cannot differentiate them from what is real.   |
+| 5             | You acquire a new phobia. It can be of water, if at sea, or of monster if it all happened in combat. You suffer Disadvantage on all Saves when it's relevant.   |
+| 6             | You are paralyzed while your mind tries to understand everything. You cannot move or act for a full hour. |
+| 7             | You have a hard time trusting anyone and have to succeed a WIL Save every time you meet someone or suffer d4 WIL damage. |
+| 8             | You pass out and are unconscious for d6 hours. You have very unnerving dreams while unconscious and suffer Disadvantages on all Saves related to the dream for a week. |
+| 9             | You lose control for a moment and immediately attack the closest person to you for d6 rounds. If you are alone, you attack whatever thing it is in reach.|
+| 10            |You have a heart attack, STR Save or die immediately. If you succeed the Save, you pass out for d6 days.|
