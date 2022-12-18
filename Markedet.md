@@ -1,6 +1,6 @@
-![Items](Bilete/Items.png)
+![Items](Bilete/Items.png)  
 
-# Item costs
+# Item costs  
 
 ## Weapons
 
