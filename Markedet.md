@@ -4,12 +4,12 @@
 
 | Weapons  | Price |
 | ------------------------------------------------------------------------------------------- | -------- |
-| Dagger, Cudgel, Sickle, Staff, etc.                | 5        |
-| Spear, Sword, Mace, Axe, Flail, etc.              | 10       |
-| Halberd, War Hammer, Long Sword, Battle Axe, etc.  | 20     |
-| Sling                                               | 5        |
-| Bow                                              | 15       |
-| Crossbow                                           | 60       |
+| Dagger, Cudgel, Sickle, Staff, etc. (d6 damage)               | 5        |
+| Spear, Sword, Mace, Axe, Flail, etc. (d8 damage)             | 10       |
+| Halberd, War Hammer, Long Sword, Battle Axe, etc. (d10 damage, bulky)  | 20     |
+| Sling (d4 damage)                                               | 5        |
+| Bow (d6 damage, bulky)                                              | 15       |
+| Crossbow (d8 damage, bulky)                                           | 60       |
 | Arrows (20)                                                                                 | 5        |
 | Quiver (capacity 20)                                                                        | 10       |
 
@@ -17,13 +17,12 @@
 
 | Armour | Price |
 | --------------------------------------------- | ---------- |
-| Shield      | 40         |
-| Helmet      | 40         |
-| Gambeson   | 60         |
-| Brigandine  | 500        |
-| Chain     | 1200       |
-| Half Plate | 4000       |
-| Full Plate  | 8000|
+| Shield (+1 Armor)      | 40         |
+| Helmet (+1 Armor)      | 40         |
+| Gambeson (+1 Armor)   | 60         |
+| Brigandine (+1 Armor, bulky)  | 500        |
+| Chain (+2 Armor, bulky)     | 1200       |
+| Full Plate (+3 Armor, bulky)  | 8000|
 
 ## Clothes  
 
