@@ -2,7 +2,7 @@
 
 ## Who Are You?
 
-Roll __3d6___ for each __Ability Score__. 10 is average. 
+Roll __3d6__ for each __Ability Score__. 10 is average. 
 
 __Strength__ – Fighting, fortitude, and toughness.  
 __Dexterity__ – Stealth, athletics, and reflexes.  
