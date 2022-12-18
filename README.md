@@ -77,7 +77,7 @@ now your Cherished Possession
 A Lilliputian can recover d6+1 WIL by holding the Cherished Possession for a Short Rest or restore
 max WIL resting for a Full Rest on land. WIL cannot be restored without a Cherished Possession. If lost, a new item can become a Cherished Possession after d3+1 Long Rests.
 
-## SCARS
+**SCARS**
 When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
 
 |      |                                                              |
@@ -95,7 +95,7 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 | 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
 | 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
 
-## STRESS OUTCOMES
+**STRESS OUTCOMES**
 | Damage to WIL | Pivotal Moment                                                                                    |
 | ------------- | ------------------------------------------------------------------------------------------------- |
 | 1             | You keep it together and get Advantage on all Saves for the next d6 turns.                        |
