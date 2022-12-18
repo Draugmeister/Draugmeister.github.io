@@ -1,11 +1,15 @@
 ![Header](Bilete/Header.jpg)
 
 # Rules Summary
+Full rules can be found in the (Cairn SRD)[https://cairnrpg.com/cairn-srd/]
 
-**ACTIONS**  
-On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a DEX save to see if they go before their enemies.
+**Die of Fate**
 
-**Retreating** from a dangerous situation always requires a successful DEX save, as well as a safe destination to run to.
+If something is uncertain in the fiction, the GM may ask you to roll a D6 to get answers.
+
+__4-6__ It's something nice, helpfull or advantageus. 
+__2-3__ It's something potentially bad. 
+__1__ It's not good at all.
 
 **ABILITIES**  
 **STR:** Brawn, prowess & resistance.   
