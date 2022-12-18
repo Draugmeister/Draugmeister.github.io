@@ -1,7 +1,7 @@
 ![Header](Bilete/Header.jpg)
 
 # Rules Summary
-Full rules can be found in the (Cairn SRD)[https://cairnrpg.com/cairn-srd/]
+Full rules can be found in the !(Cairn SRD)[https://cairnrpg.com/cairn-srd/]
 
 **Die of Fate**
 
