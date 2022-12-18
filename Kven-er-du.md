@@ -2,7 +2,7 @@
 Complete the steps bellow, or [use this generator](https://cairnrpg.com/tools/character-generator/).
 
 
-### Ability Score
+## Ability Score
 
 Roll __3d6__ for each __Ability Score__. 10 is average. 
 
@@ -12,7 +12,7 @@ __Willpower__ – Confidence, discipline, and charisma.
 
 Characters start with __d6 Hit Points__, a measure of their ability to avoid life-threatening Damage.
 
-#### Background
+## Background
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -49,7 +49,7 @@ Roll once on each of the **Starting Gear** tables to determine your PC's armor, 
 
 See the **Equipment List** for related armor, damage, and slot values. Smaller items can sometimes be bundled together into one slot.
 
-## Starting Gear (d20)
+### Starting Gear (d20)
 
 #### Armor
 
