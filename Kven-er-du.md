@@ -43,7 +43,7 @@ All PCs begin with:
 
 - Three days' rations (one slot)
 - A torch (one slot)
-- 3d6 gold pieces
+- 3d6 silver pieces
 
 Roll once on each of the **Starting Gear** tables to determine your PC's armor, weapons and equipment. Pick only one item for each result.
 
