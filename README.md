@@ -1,8 +1,8 @@
 ![Header](Bilete/Header.jpg)
 
-# Rules Summary
+# Rules Summary  
 
-**Die of Fate**
+**Die of Fate**  
 
 If something is uncertain in the fiction, the GM may ask you to roll a D6 to get answers.
 
@@ -73,3 +73,4 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 | 10   | Sundered: An appendage is torn off, crippled or useless. The Warden will tell you which. Then, make a WIL save. If you pass, increase your max WIL by 1d6. |
 | 11   | Mortal Wound: You are deprived and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max HP. |
 | 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against critical damage is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max HP, take the new result. |
+
