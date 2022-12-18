@@ -56,7 +56,7 @@ Damage that reduces a target's HP **below** 0 decreases their STR by the remaind
 
 Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
 
-**STRESS**
+**STRESS**  
 When your Lilliputian experiences grave danger or bizarre events, make a WIL Save. On a failure, the character suffers WIL damage. The amount of damage will vary depending on how extreme the circumstances were.  
 • Mild or upsetting events: 1 damage to WIL  
 • Strange and unsettling occurrences that cause one to gasp: d4 damage to WIL  
@@ -64,18 +64,14 @@ When your Lilliputian experiences grave danger or bizarre events, make a WIL Sav
 • Monster battles and losing a friend: d8 damage to WIL  
 • Experiences of horror, Leviathans from the deeps: d10 damage to WIL  
 
-**Pivotal Moment**
+**Pivotal Moment**  
 When WIL is reduced to 0, characters experience a Pivotal Moment. See the Pivotal Moment table and cross-reference the damage dealt to reduce WIL to 0 and take the consequence.
 
-**Cling to what you hold dear…**
-If a character experiences stress, they can choose
-an item they are carrying and use it as a totem of
-comfort. If you do this for a Long Rest, this item is
-now your Cherished Possession
+**Cling to what you hold dear…**  
+If a character experiences stress, they can choose an item they are carrying and use it as a totem of comfort. If you do this for a Long Rest, this item is now your Cherished Possession
 
 **Recovering from the Horrors**  
-A Lilliputian can recover d6+1 WIL by holding the Cherished Possession for a Short Rest or restore
-max WIL resting for a Full Rest on land. WIL cannot be restored without a Cherished Possession. If lost, a new item can become a Cherished Possession after d3+1 Long Rests.
+A character can recover d6+1 WIL by holding the Cherished Possession for a Short Rest or restore max WIL resting for a Full Rest on land. WIL cannot be restored without a Cherished Possession. If lost, a new item can become a Cherished Possession after d3+1 Long Rests.
 
 **SCARS**  
 When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
