@@ -19,7 +19,7 @@ Expand For Example
 
 </details>
 
-## Die of Fate
+### Die of Fate
 
 If something is uncertain in the fiction, the GM may ask you to roll a D6 to get answers.
 
