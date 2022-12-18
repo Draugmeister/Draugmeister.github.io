@@ -1,15 +1,14 @@
 ![Header](Bilete/Header.jpg)
 
 # Rules Summary
-Full rules can be found in the !(Cairn SRD)[https://cairnrpg.com/cairn-srd/]
 
 **Die of Fate**
 
 If something is uncertain in the fiction, the GM may ask you to roll a D6 to get answers.
 
-__4-6__ It's something nice, helpfull or advantageus. 
-__2-3__ It's something potentially bad. 
-__1__ It's not good at all.
+__4-6__ It's something nice, helpfull or advantageus.  
+__2-3__ It's something potentially bad.  
+__1__ It's not good at all. 
 
 **ABILITIES**  
 **STR:** Brawn, prowess & resistance.   
