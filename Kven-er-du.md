@@ -1,6 +1,8 @@
 # Your Character
+Complete the steps bellow, or [use this generator](https://cairnrpg.com/tools/character-generator/).
 
-## Who Are You?
+
+### Ability Score
 
 Roll __3d6__ for each __Ability Score__. 10 is average. 
 
