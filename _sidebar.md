@@ -2,4 +2,4 @@
 - [Your character](Kven-er-du.md)
 - [Item costs](Markedet.md)     
 - [Rules](Reglane.md)
-- [Links](Lenkjer.md)
+- [Links](lenkjer.md)
